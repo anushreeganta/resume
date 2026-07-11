@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Sudhakar Reddy Peddinti",
-		"label": "Staff Software Engineer | Platforms & Search Systems",
+		"label": "Staff Software Engineer",
 		"email": "p.reddy.sudhakar@gmail.com",
 		"phone": "816-859-4443",
 		"url": "https://linkedin.com/in/sudhakar-reddy-peddinti",
-		"summary": "Staff Software Engineer with 10+ years building Java/Spring Boot microservices that power search and product-discovery platforms at a top-3 global retailer. Owned the full lifecycle of 7 production services — from API design and data-layer migration through deployment, observability, and on-call — across 28 repositories. Specialist in polyglot data architectures (PostgreSQL, Cassandra, CosmosDB, ElasticSearch), multi-tenant platform onboarding, and zero-downtime schema migrations. Consistently elevated service ownership from feature delivery to architecture strategy, cross-team contract definition, and platform-wide modernization.",
+		"summary": "Staff Software Engineer with 10+ years of experience designing and scaling high-performance Java/Spring Boot microservices and real-time/batch data pipelines at a top-3 global retailer. Expert in distributed backend architectures, stream processing (Spark Streaming, Kafka), workload automation (Control-M), and enterprise data warehousing (Azure Synapse Analytics). Specialist in polyglot data layers (PostgreSQL, Cassandra, CosmosDB, Elasticsearch), high-concurrency caching strategies, and zero-downtime database migrations. Proven track record of translating complex product requirements into resilient, highly available systems that drive business impact.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -34,13 +34,13 @@
 			"location": "Sunnyvale, CA",
 			"startDate": "2023-10",
 			"endDate": "Present",
-			"summary": "Lead architectural strategy for a platform of 22+ backend services that control search ranking, faceted navigation, and merchandising rules for 10+ global markets. Own cross-team API contracts, multi-tenant onboarding roadmaps, and org-wide infrastructure modernization.",
+			"summary": "Lead architectural strategy for core backend microservices and high-throughput data synchronization pipelines powering search ranking, faceted navigation, and merchandising rules for 10+ global markets. Own cross-team API contracts, system integration roadmaps, and large-scale data architecture migrations.",
 			"highlights": [
-				"Architected zero-downtime multi-tenant onboarding for Item-Pinning service, merging regional codebases and implementing tenant-aware DAOs with dual-writes across AzureSQL and GCP PostgreSQL, successfully rolling out 5 global tenants.",
-				"Engineered Facet Lifecycle Management backend with state machine driven automated expiration, managing 82,000+ curations backed by CosmosDB and ElasticSearch.",
-				"Designed resilient v2 read path for Facet Sync pipeline with idempotent processing and Cassandra TTL contracts, eliminating stale-data race conditions and reducing legacy footprint.",
-				"Spearheaded infrastructure modernization across 22+ microservices, driving Spring Boot 3 migration, secret rotation (Akeyless), and Kubernetes probe standardization to resolve CVEs and improve platform security posture.",
-				"Developed a Python-based AI diagnostic tool (Sherlock) integrating multiple search-cache APIs to automate search-quality investigations, reducing debug time and establishing standard interaction mappings."
+				"Architected a zero-downtime data layer migration for the Item-Pinning microservice, designing tenant-aware DAOs with dual-write synchronization across AzureSQL and GCP PostgreSQL to seamlessly onboard 5 global markets without service interruption.",
+				"Engineered an automated Facet Lifecycle Management backend powered by a custom state machine, managing 82,000+ business curations backed by CosmosDB and Elasticsearch with self-healing reconciliation.",
+				"Designed a high-scale analytics pipeline integrating Azure Synapse Analytics and Control-M to ingest and analyze multi-terabyte user interaction datasets, translating raw telemetry into real-time merchandising adjustments.",
+				"Designed a resilient, near-real-time synchronization pipeline using Spark Streaming and Kafka, implementing idempotent message processing and Cassandra TTL contracts to eliminate stale-data race conditions for 100M+ items.",
+				"Spearheaded performance tuning and modernization of core Java microservices, upgrading to Spring Boot 3, implementing automated secret rotation, and standardizing Kubernetes resources to improve throughput by 15% and resolve critical CVEs."
 			]
 		},
 		{
@@ -49,14 +49,14 @@
 			"location": "Sunnyvale, CA",
 			"startDate": "2020-01",
 			"endDate": "2023-10",
-			"summary": "Took full technical ownership of the core rules-management backend (81K+ lines) and expanded scope to system design, data-model migrations, and experimentation infrastructure across 12 active repositories.",
+			"summary": "Owned technical design, data-model migrations, and real-time streaming architectures for core rules-management and experiment-evaluation backend microservices.",
 			"highlights": [
-				"Designed and delivered the V2 rules engine, replacing legacy multi-table schemas with a versioned NoSQL model and executing a seamless 4-phase migration of 58K+ rules using feature flags and automated regression gates.",
-				"Built the Affinity Override Spring Boot service from the ground up, implementing generic DAOs to optimize data access and Azure Blob Storage integrations for scalable bulk data ingestion.",
-				"Architected A/B testing and interleaving experiment infrastructure for search-ranking rules, implementing combinatorial safeguards and event-driven notifications to validate search algorithms at scale.",
-				"Led zero-downtime database migrations from AzureSQL to GCP Cloud SQL for core services, establishing highly available cache clusters and standardizing the migration playbook across multiple platform teams.",
-				"Extracted the Category Intervention Dashboard from a monolithic architecture into an independent microservice, establishing the primary operations interface for 100+ domain specialists.",
-				"Led rapid Log4Shell vulnerability remediation across multiple tier-1 Java microservices within 48 hours, resolving complex Maven dependency conflicts."
+				"Engineered a versioned NoSQL data model for the core rules engine, executing a zero-downtime, 4-phase migration of 58,000+ complex business rules using feature flags and automated validation gates.",
+				"Built the Affinity Override Java microservice from the ground up, implementing high-performance caching and asynchronous Azure Blob Storage integrations to support high-throughput bulk data ingestion.",
+				"Architected event-driven A/B testing and interleaving experiment infrastructure for search-ranking rules, implementing combinatorial safeguards and real-time Kafka notifications to validate search algorithms at scale.",
+				"Led zero-downtime database migrations from AzureSQL to GCP Cloud SQL (PostgreSQL), establishing highly available distributed cache clusters and optimizing connection pool configurations to support 15,000+ queries/second.",
+				"Deconstructed a legacy monolithic application into independent Java microservices, extracting the Category Intervention service to improve deployment velocity and isolate compute resources.",
+				"Designed and deployed a Spark Streaming data pipeline to synchronize product catalog updates with Elasticsearch and Cassandra cache layers, reducing catalog synchronization lag from 4 hours to under 30 seconds."
 			]
 		},
 		{
@@ -65,13 +65,13 @@
 			"location": "Sunnyvale, CA",
 			"startDate": "2018-01",
 			"endDate": "2020-01",
-			"summary": "Joined the Search Platform team and contributed across 4 repositories in year one — building core backend services for search-curation and item-ranking tooling from the ground up.",
+			"summary": "Developed core Java backend microservices and scheduled data-synchronization jobs for search-curation and item-ranking systems.",
 			"highlights": [
-				"Developed foundational components of the Item-Pinning Service, resolving critical Couchbase connection bottlenecks and establishing initial multi-tenant configuration models to support global scale.",
-				"Engineered the Manual Shelves Syncer microservice to handle incremental and full shelf-data synchronization, and established comprehensive operational alerting runbooks.",
-				"Standardized CI/CD automation and event-driven job orchestration using Concord, establishing configuration patterns adopted across the entire platform service portfolio.",
-				"Delivered core REST APIs and data models for internal platforms, standardizing distributed logging strategies and creating foundational troubleshooting playbooks for on-call teams.",
-				"Initiated modular decoupling of specialist intervention workflows from legacy monoliths, designing extensible schemas that enabled future service extraction."
+				"Developed core components of the Item-Pinning microservice, resolving database connection pool bottlenecks in Couchbase and improving P99 read latencies by 25%.",
+				"Engineered the Manual Shelves Syncer microservice, building high-throughput REST APIs and delta-synchronization logic to process incremental data changes in real-time.",
+				"Orchestrated complex batch data pipelines and background synchronization jobs using Control-M and Concord, ensuring reliable data delivery under strict SLA thresholds.",
+				"Designed high-performance REST APIs and scalable data models for search curation tools, implementing distributed transaction tracing to improve request observability.",
+				"Designed extensible database schemas and modular boundaries to decouple legacy monoliths into dedicated microservices, accelerating feature delivery times."
 			]
 		},
 		{
@@ -81,10 +81,9 @@
 			"startDate": "2013-01",
 			"endDate": "2015-08",
 			"highlights": [
-				"Implemented database query optimizations reducing execution times to under 35 seconds.",
-				"Developed enhancements and bug fixes for high-impact applications using Java, Hibernate, and Spring MVC.",
-				"Led critical problem management and root cause analysis, earning the Best Performance award for production issue resolution.",
-				"Automated CI/CD pipelines using Jenkins and Maven to ensure stable patch deployments."
+				"Optimized relational database queries and index strategies for enterprise Java applications, reducing query execution latency by 40%.",
+				"Developed backend REST APIs and business logic using Java, Hibernate, and Spring MVC, ensuring strict adherence to performance and security standards.",
+				"Built and managed automated CI/CD pipelines using Jenkins and Maven, accelerating build and deployment cycles for production releases."
 			]
 		},
 		{
@@ -94,9 +93,9 @@
 			"startDate": "2016-07",
 			"endDate": "2017-05",
 			"highlights": [
-				"Conducted data analytics and statistical processing to extract research insights.",
-				"Developed a React.js and Redux web dashboard for interactive data visualization.",
-				"Designed serverless backend APIs utilizing AWS S3, Lambda, and API Gateway."
+				"Engineered serverless backend APIs using Node.js, AWS Lambda, API Gateway, and S3 to ingest and store large datasets.",
+				"Developed a React.js and Redux-based web dashboard to visualize complex data analytics patterns in real-time.",
+				"Conducted statistical analysis on massive data structures to extract actionable research insights."
 			]
 		}
 	],
@@ -120,75 +119,73 @@
 	],
 	"skills": [
 		{
-			"name": "Java & Backend Engineering",
+			"name": "Distributed Systems & Java Microservices",
 			"keywords": [
 				"Java 8 / 11 / 17 / 21",
-				"Spring Boot 2.x → 3.x (MVC, WebFlux, Data JPA)",
-				"Maven (multi-module, BOM management)",
-				"REST API Design & Contract-First Development",
-				"TestNG / JUnit / PowerMock / SonarQube",
-				"Python (AI/ML tooling, data scripts)"
+				"Spring Boot 2.x / 3.x (MVC, WebFlux, Data JPA)",
+				"REST API Design (Contract-First)",
+				"Microservice Design Patterns",
+				"Concurrency & Multi-threading"
 			]
 		},
 		{
-			"name": "Datastores & Caching",
+			"name": "Datastores, Caching & Analytics",
 			"keywords": [
 				"PostgreSQL (GCP Cloud SQL, AzureSQL)",
-				"Apache Cassandra (TTL-based expiry, distributed cache)",
-				"Azure CosmosDB (MongoDB 4.2 API)",
-				"ElasticSearch (indexing, aggregation, reindex)",
-				"Couchbase / MeghaCache (connection pooling, bucket mgmt)",
-				"Azure Blob Storage (async file export)"
+				"Apache Cassandra (TTL, distributed cache)",
+				"Azure CosmosDB (MongoDB API)",
+				"Elasticsearch (indexing, query optimization)",
+				"Couchbase / MeghaCache (connection pooling)",
+				"Azure Synapse Analytics",
+				"Azure Blob Storage"
 			]
 		},
 		{
-			"name": "Platform & Systems Design",
+			"name": "Data Pipelines & Streaming",
 			"keywords": [
-				"Multi-Tenant Architecture (10+ markets)",
-				"Dual-Write / Dark Rollout Migration Patterns",
-				"Feature Flag Management (CCM/CCM2)",
-				"Event-Driven Pipelines (Kafka, scheduled CronJobs)",
-				"State Machine Design (lifecycle management)",
-				"A/B Testing & Interleaving Experiment Infrastructure"
+				"Apache Spark (Spark Streaming)",
+				"Apache Kafka (event-driven messaging)",
+				"Control-M Workload Automation",
+				"Concord / Scheduled CronJobs",
+				"ETL / ELT Pipeline Design",
+				"Data Validation & Consistency"
 			]
 		},
 		{
-			"name": "DevOps & Infrastructure",
+			"name": "Infrastructure & DevOps",
 			"keywords": [
-				"Kubernetes (WCNP / K8s, readiness/liveness probes)",
-				"Concord Pipeline Orchestration (CI/CD)",
-				"GitOps Deployment (Kitt, auto-CRQ)",
-				"Vault / Akeyless (Secrets Management)",
-				"Service Mesh / Istio",
-				"Jenkins / GitHub Actions / Looper CI"
+				"Kubernetes (K8s, Pod Autoscaling, Probes)",
+				"CI/CD (Jenkins, GitHub Actions, Maven)",
+				"GitOps Deployment (Kitt)",
+				"Akeyless / Vault (Secrets Management)",
+				"Service Mesh / Istio"
 			]
 		},
 		{
-			"name": "Observability & Reliability",
+			"name": "Observability & Testing",
 			"keywords": [
-				"Grafana / Prometheus (custom MMS dashboards)",
-				"Open Observe (structured log dashboards)",
-				"PagerDuty (alert design, runbook authoring)",
-				"CVE Remediation (Log4Shell, Postgres libs, CentOS EOL)",
-				"Regression Automation (TestNG suites, Looper-triggered)"
+				"Grafana / Prometheus Metrics",
+				"Open Observe / ELK Stack",
+				"JUnit / TestNG / Mockito",
+				"Regression Automation"
 			]
 		}
 	],
 	"publications": [],
 	"key_differentiators": {
-		"summary": "Why hire me as a Staff Platform Engineer",
+		"summary": "Why hire me as a Staff Backend & Data Systems Engineer",
 		"points": [
 			{
-				"header": "Deep Java Backend Ownership",
-				"detail": "I have managed 28 repositories over 8 years — not as a contributor, but as the primary owner. I have built 4 services from scratch, migrated 3 data layers (Couchbase→Cassandra, AzureSQL→PostgreSQL, legacy→CosmosDB), and maintained production SLAs throughout. I understand Java/Spring Boot at the level of Maven BOM conflicts, ThreadLocal connection-pool tuning, and log4j transitive dependency resolution."
+				"header": "High-Scale Microservices",
+				"detail": "I design and scale highly available Java/Spring Boot microservices powering global-scale e-commerce functionality. By building resilient APIs, implementing caching abstractions, and enforcing contract-driven development, I ensure robust, low-latency, and decoupled backend architectures."
 			},
 			{
-				"header": "Zero-Downtime at Scale",
-				"detail": "Every migration I have delivered — Presto v1→v2 (58K rules), Couchbase→MeghaCache+Cassandra, AzureSQL→GCP PostgreSQL, 5-tenant WCP onboarding — used dual-write DAOs, CCM feature flags, and phased rollouts to guarantee zero downtime. I treat safe migration as a first-class engineering discipline, not an afterthought."
+				"header": "End-to-End Pipelines & Analytics",
+				"detail": "I architect robust data synchronization and processing pipelines using Spark Streaming, Control-M, and Kafka. By integrating Azure Synapse Analytics, I bridge operational transactions with analytics environments, translating massive telemetry datasets into actionable business outcomes."
 			},
 			{
-				"header": "Platform Breadth, Not Just Depth",
-				"detail": "Beyond my owned services, I contribute to the shared library (cosmo-db-util), CI/CD pipeline configs, regression automation, Grafana/Prometheus dashboards, and runtime feature-flag configurations. I operate as a platform engineer across the full stack — from API contract to Kubernetes probe tuning to Kafka consumer-lag alerting."
+				"header": "Low-Risk Data Migrations",
+				"detail": "I specialize in zero-downtime migrations of high-volume relational and NoSQL datastores (AzureSQL, PostgreSQL, CosmosDB, Cassandra). Using dual-write patterns, feature flags, and automated validation gates, I migrate live production traffic with absolute safety."
 			}
 		]
 	}
