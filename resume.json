@@ -6,7 +6,7 @@
 		"email": "p.reddy.sudhakar@gmail.com",
 		"phone": "816-859-4443",
 		"url": "https://linkedin.com/in/sudhakar-reddy-peddinti",
-		"summary": "Staff Software Engineer with 10+ years of experience designing and scaling high-performance Java/Spring Boot microservices and real-time/batch data pipelines at a top-3 global retailer. Expert in distributed backend architectures, stream processing (Spark Streaming, Kafka), workload automation (Control-M), and enterprise data warehousing (Azure Synapse Analytics). Specialist in polyglot data layers (PostgreSQL, Cassandra, CosmosDB, Elasticsearch), high-concurrency caching strategies, and zero-downtime database migrations. Proven track record of translating complex product requirements into resilient, highly available systems that drive business impact.",
+		"summary": "Staff Software Engineer with 10+ years of experience designing and scaling high-performance Java/Spring Boot microservices and real-time/batch data pipelines at a Fortune 1 global retailer. Expert in distributed backend architectures, stream processing (Spark Streaming, Kafka), workload automation (Control-M), and enterprise data warehousing (Azure Synapse Analytics). Specialist in polyglot data layers (PostgreSQL, Cassandra, CosmosDB, Elasticsearch), high-concurrency caching strategies, and zero-downtime database migrations. Proven track record of translating complex product requirements into resilient, highly available systems that drive business impact.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -34,13 +34,13 @@
 			"location": "Sunnyvale, CA",
 			"startDate": "2023-10",
 			"endDate": "Present",
-			"summary": "Lead architectural strategy for core backend microservices and high-throughput data synchronization pipelines powering search ranking, faceted navigation, and merchandising rules for 10+ global markets. Own cross-team API contracts, system integration roadmaps, and large-scale data architecture migrations.",
+			"summary": "Lead architectural strategy for core backend microservices and high-throughput data synchronization pipelines powering search ranking, faceted navigation, and merchandising rules for 8 Global Markets, directly optimizing search relevance to drive conversion velocity and global business revenue.",
 			"highlights": [
-				"Architected a zero-downtime data layer migration for the Item-Pinning microservice, designing tenant-aware DAOs with dual-write synchronization across AzureSQL and GCP PostgreSQL to seamlessly onboard 5 global markets without service interruption.",
-				"Engineered an automated Facet Lifecycle Management backend powered by a custom state machine, managing 82,000+ business curations backed by CosmosDB and Elasticsearch with self-healing reconciliation.",
-				"Designed a high-scale analytics pipeline integrating Azure Synapse Analytics and Control-M to ingest and analyze multi-terabyte user interaction datasets, translating raw telemetry into real-time merchandising adjustments.",
-				"Designed a resilient, near-real-time synchronization pipeline using Spark Streaming and Kafka, implementing idempotent message processing and Cassandra TTL contracts to eliminate stale-data race conditions for 100M+ items.",
-				"Spearheaded performance tuning and modernization of core Java microservices, upgrading to Spring Boot 3, implementing automated secret rotation, and standardizing Kubernetes resources to improve throughput by 15% and resolve critical CVEs."
+				"Engineered an automated Facet Lifecycle Management backend utilizing a custom State Machine; managed 82,000+ business curations backed by CosmosDB and Elasticsearch with self-healing distributed reconciliation.",
+				"Designed a high-scale analytics pipeline integrating Azure Synapse Analytics and Control-M to ingest and analyze 500M+ monthly user interaction logs, translating telemetry into real-time merchandising adjustments.",
+				"Designed a resilient Spark Streaming and Kafka pipeline for near-real-time synchronization, implementing idempotent processing and Cassandra TTL contracts to eliminate race conditions across 100M+ catalog items.",
+				"Spearheaded performance tuning, JVM optimization (G1GC, connection pool sizing), and tech modernization of core Java microservices; standardized Kubernetes resource scaling to improve system throughput by 20%.",
+				"Architected a zero-downtime data layer migration for the Item-Pinning microservice, designing tenant-aware DAOs with dual-write synchronization across AzureSQL and GCP PostgreSQL to onboard 5 global markets with zero service interruption."
 			]
 		},
 		{
@@ -51,12 +51,12 @@
 			"endDate": "2023-10",
 			"summary": "Owned technical design, data-model migrations, and real-time streaming architectures for core rules-management and experiment-evaluation backend microservices.",
 			"highlights": [
-				"Engineered a versioned NoSQL data model for the core rules engine, executing a zero-downtime, 4-phase migration of 58,000+ complex business rules using feature flags and automated validation gates.",
-				"Built the Affinity Override Java microservice from the ground up, implementing high-performance caching and asynchronous Azure Blob Storage integrations to support high-throughput bulk data ingestion.",
-				"Architected event-driven A/B testing and interleaving experiment infrastructure for search-ranking rules, implementing combinatorial safeguards and real-time Kafka notifications to validate search algorithms at scale.",
-				"Led zero-downtime database migrations from AzureSQL to GCP Cloud SQL (PostgreSQL), establishing highly available distributed cache clusters and optimizing connection pool configurations to support 15,000+ queries/second.",
-				"Deconstructed a legacy monolithic application into independent Java microservices, extracting the Category Intervention service to improve deployment velocity and isolate compute resources.",
-				"Designed and deployed a Spark Streaming data pipeline to synchronize product catalog updates with Elasticsearch and Cassandra cache layers, reducing catalog synchronization lag from 4 hours to under 30 seconds."
+				"Built the Affinity Override Spring Boot microservice from scratch, implementing custom caching policies and asynchronous Azure Blob Storage exports to ingest and process bulk data at 10k events/sec.",
+				"Architected event-driven A/B testing and interleaving experiment infrastructure, utilizing Kafka to broadcast rule updates and implementing safety gates to prevent rule collision in production.",
+				"Deconstructed a legacy monolithic application into independent Java microservices, extracting the Category Intervention service to isolate CPU resources and double deployment velocity.",
+				"Designed and deployed a Spark Streaming data pipeline to synchronize product catalog updates with Elasticsearch and Cassandra, reducing cache synchronization lag from 4 hours to under 30 seconds.",
+				"Engineered a versioned NoSQL data model for the core Rules Engine, replacing relational tables with CosmosDB schemas and executing a zero-downtime, 4-phase migration of 58,000+ business rules.",
+				"Led zero-downtime migrations from AzureSQL to GCP Cloud SQL (PostgreSQL), establishing distributed cache clusters and optimizing index strategies to support 15,000+ QPS."
 			]
 		},
 		{
@@ -72,6 +72,18 @@
 				"Orchestrated complex batch data pipelines and background synchronization jobs using Control-M and Concord, ensuring reliable data delivery under strict SLA thresholds.",
 				"Designed high-performance REST APIs and scalable data models for search curation tools, implementing distributed transaction tracing to improve request observability.",
 				"Designed extensible database schemas and modular boundaries to decouple legacy monoliths into dedicated microservices, accelerating feature delivery times."
+			]
+		},
+		{
+			"name": "IBM",
+			"position": "Software Developer Intern",
+			"location": "San Jose, CA",
+			"startDate": "2017-06",
+			"endDate": "2017-12",
+			"highlights": [
+				"Engineered high-performance data ingestion mechanisms for the BigSQL development team using Apache Spark and Hive.",
+				"Integrated machine learning pipelines on the DSX platform, optimizing R and Spark backends to run distributed data analytics.",
+				"Upgraded Watson Conversation bot interfaces, streamlining asynchronous state rendering to improve user interaction latency."
 			]
 		},
 		{
@@ -95,7 +107,7 @@
 			"highlights": [
 				"Engineered serverless backend APIs using Node.js, AWS Lambda, API Gateway, and S3 to ingest and store large datasets.",
 				"Developed a React.js and Redux-based web dashboard to visualize complex data analytics patterns in real-time.",
-				"Conducted statistical analysis on massive data structures to extract actionable research insights."
+				"Partnered with Cox Automotive to analyze operational workflows within autocare service departments, performing statistical modeling on time-intensive processes to identify bottlenecks and deliver data-driven efficiency insights."
 			]
 		}
 	],
@@ -115,6 +127,32 @@
 			"startDate": "2008",
 			"endDate": "2012",
 			"gpa": "3.15"
+		}
+	],
+	"projects": [
+		{
+			"name": "RecallExplain AI",
+			"description": "An AI-powered search recall diagnostics and explainability tool built using LangGraph.",
+			"highlights": [
+				"Architected a multi-agent LangGraph workflow to trace, analyze, and explain item retrieval paths within recommendation engines.",
+				"Designed semantic search tracing and query-intent explanation tools, reducing query-to-item recommendation debugging times for backend engineers."
+			]
+		},
+		{
+			"name": "Docker Failover & Load Balancing Engine",
+			"description": "A dynamic container orchestration system to automate resource scaling and failover recovery.",
+			"highlights": [
+				"Architected a Java-based container monitoring daemon that detects CPU/memory exhaustion and dynamically reallocates Docker containers.",
+				"Implemented threshold-based load-balancing algorithms to achieve zero-downtime container migration during node failure simulations."
+			]
+		},
+		{
+			"name": "Hybrid Curation & Recommendation System",
+			"description": "A personalized food curation and recommendation platform based on nutritional profiles and preferences.",
+			"highlights": [
+				"Engineered a recommendation engine that processes user nutritional data to output real-time personalized meal configurations.",
+				"Designed and deployed a mobile client with local data syncing, allowing offline rule evaluation and low-latency rendering."
+			]
 		}
 	],
 	"skills": [
@@ -172,6 +210,27 @@
 		}
 	],
 	"publications": [],
+	"awards": [
+		{
+			"title": "Second Place",
+			"date": "2020",
+			"awarder": "Metropolitan Transportation Authority (MTA) – New York",
+			"summary": "Won second place in the 'Back on Track 2020' hackathon for designing public transit recovery solutions."
+		},
+		{
+			"title": "DXC Innovation Award",
+			"date": "2014",
+			"awarder": "DXC Technology / American Airlines",
+			"summary": "Recognized for conceptualizing and implementing a mobile-camera-based passport scanner for American Airlines, replacing expensive legacy hardware units."
+		}
+	],
+	"certificates": [
+		{
+			"name": "Google TensorFlow Certified Developer",
+			"date": "2020",
+			"issuer": "Google"
+		}
+	],
 	"key_differentiators": {
 		"summary": "Why hire me as a Staff Backend & Data Systems Engineer",
 		"points": [
