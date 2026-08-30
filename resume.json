@@ -1,12 +1,12 @@
 {
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
-		"name": "Sudhakar Reddy Peddinti",
-		"label": "Staff Software Engineer",
-		"email": "p.reddy.sudhakar@gmail.com",
-		"phone": "816-859-4443",
-		"url": "https://linkedin.com/in/sudhakar-reddy-peddinti",
-		"summary": "Staff Software Engineer with 10+ years of experience designing and scaling high-performance Java/Spring Boot microservices and real-time/batch data pipelines at a Fortune 1 global retailer. Expert in distributed backend architectures, stream processing (Spark Streaming, Kafka), workload automation (Control-M), and enterprise data warehousing (Azure Synapse Analytics). Specialist in polyglot data layers (PostgreSQL, Cassandra, CosmosDB, Elasticsearch), high-concurrency caching strategies, and zero-downtime database migrations. Proven track record of translating complex product requirements into resilient, highly available systems that drive business impact.",
+		"name": "Anushree Ganta",
+		"label": "Frontend Developer",
+		"email": "anushree.ganta@gmail.com",
+		"phone": "",
+		"url": "https://linkedin.com/in/anushree-ganta",
+		"summary": "Frontend Developer with technical expertise in designing, developing, and optimizing high-performance web applications. Skilled in modern JavaScript/TypeScript ecosystems, HTML5/CSS3, React, state management frameworks, UI component architecture, and REST/GraphQL API integration. Passionate about building responsive, accessible, and user-centric web applications with emphasis on web performance, cross-browser compatibility, and modern design systems.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -17,13 +17,13 @@
 		"profiles": [
 			{
 				"network": "LinkedIn",
-				"username": "sudhakar-reddy-peddinti",
-				"url": "https://linkedin.com/in/sudhakar-reddy-peddinti"
+				"username": "anushree-ganta",
+				"url": "https://linkedin.com/in/anushree-ganta"
 			},
 			{
 				"network": "GitHub",
-				"username": "SudhakarReddyPeddinti",
-				"url": "https://github.com/SudhakarReddyPeddinti"
+				"username": "anushreeganta",
+				"url": "https://github.com/anushreeganta"
 			}
 		]
 	},
@@ -157,94 +157,64 @@
 	],
 	"skills": [
 		{
-			"name": "Distributed Systems & Java Microservices",
+			"name": "Frontend Frameworks & Web Technologies",
 			"keywords": [
-				"Java 8 / 11 / 17 / 21",
-				"Spring Boot 2.x / 3.x (MVC, WebFlux, Data JPA)",
-				"REST API Design (Contract-First)",
-				"Microservice Design Patterns",
-				"Concurrency & Multi-threading"
+				"JavaScript (ES6+) / TypeScript",
+				"React.js / Next.js",
+				"HTML5 / Semantic Markup",
+				"CSS3 / SCSS / Tailwind CSS",
+				"Component-Driven Development",
+				"Single Page Applications (SPA)"
 			]
 		},
 		{
-			"name": "Datastores, Caching & Analytics",
+			"name": "State Management & API Integration",
 			"keywords": [
-				"PostgreSQL (GCP Cloud SQL, AzureSQL)",
-				"Apache Cassandra (TTL, distributed cache)",
-				"Azure CosmosDB (MongoDB API)",
-				"Elasticsearch (indexing, query optimization)",
-				"Couchbase / MeghaCache (connection pooling)",
-				"Azure Synapse Analytics",
-				"Azure Blob Storage"
+				"Redux Toolkit / Context API",
+				"React Query / Axios / Fetch",
+				"RESTful APIs & GraphQL",
+				"WebSockets / Real-time UI Sync",
+				"Client-side Caching & Data Hydration"
 			]
 		},
 		{
-			"name": "Data Pipelines & Streaming",
+			"name": "UI/UX & Web Performance",
 			"keywords": [
-				"Apache Spark (Spark Streaming)",
-				"Apache Kafka (event-driven messaging)",
-				"Control-M Workload Automation",
-				"Concord / Scheduled CronJobs",
-				"ETL / ELT Pipeline Design",
-				"Data Validation & Consistency"
+				"Responsive & Adaptive Layouts",
+				"Web Performance & Core Web Vitals",
+				"Web Accessibility (WCAG 2.1, ARIA)",
+				"Design Systems & Component Libraries",
+				"Cross-Browser Compatibility"
 			]
 		},
 		{
-			"name": "Infrastructure & DevOps",
+			"name": "Testing & Build Tooling",
 			"keywords": [
-				"Kubernetes (K8s, Pod Autoscaling, Probes)",
-				"CI/CD (Jenkins, GitHub Actions, Maven)",
-				"GitOps Deployment (Kitt)",
-				"Akeyless / Vault (Secrets Management)",
-				"Service Mesh / Istio"
-			]
-		},
-		{
-			"name": "Observability & Testing",
-			"keywords": [
-				"Grafana / Prometheus Metrics",
-				"Open Observe / ELK Stack",
-				"JUnit / TestNG / Mockito",
-				"Regression Automation"
+				"Vite / Webpack / Babel",
+				"Jest / React Testing Library",
+				"Cypress / Playwright E2E Testing",
+				"Git / GitHub Actions CI/CD",
+				"ESLint / Prettier Automation"
 			]
 		}
 	],
 	"publications": [],
-	"awards": [
-		{
-			"title": "Second Place",
-			"date": "2020",
-			"awarder": "Metropolitan Transportation Authority (MTA) – New York",
-			"summary": "Won second place in the 'Back on Track 2020' hackathon for designing public transit recovery solutions."
-		},
-		{
-			"title": "DXC Innovation Award",
-			"date": "2014",
-			"awarder": "DXC Technology / American Airlines",
-			"summary": "Recognized for conceptualizing and implementing a mobile-camera-based passport scanner for American Airlines, replacing expensive legacy hardware units."
-		}
-	],
-	"certificates": [
-		{
-			"name": "Google TensorFlow Certified Developer",
-			"date": "2020",
-			"issuer": "Google"
-		}
-	],
+	"awards": [],
+	"certificates": [],
 	"key_differentiators": {
-		"summary": "Why hire me as a Staff Backend & Data Systems Engineer",
+		"summary": "Why hire me as a Frontend Developer",
 		"points": [
 			{
-				"header": "High-Scale Microservices",
-				"detail": "I design and scale highly available Java/Spring Boot microservices powering global-scale e-commerce functionality. By building resilient APIs, implementing caching abstractions, and enforcing contract-driven development, I ensure robust, low-latency, and decoupled backend architectures."
+				"header": "Modern Web Architecture",
+				"detail": "I design and build intuitive, scalable, and modular web applications using modern JavaScript/TypeScript frameworks. By leveraging component-driven architecture and design systems, I deliver maintainable frontend code bases."
 			},
 			{
-				"header": "End-to-End Pipelines & Analytics",
-				"detail": "I architect robust data synchronization and processing pipelines using Spark Streaming, Control-M, and Kafka. By integrating Azure Synapse Analytics, I bridge operational transactions with analytics environments, translating massive telemetry datasets into actionable business outcomes."
+				"header": "User Experience & Performance Optimization",
+				"detail": "I specialize in optimizing web applications for fast load times, smooth interactions, and accessibility. By tuning bundle sizes, rendering paths, and Core Web Vitals, I ensure exceptional user experiences."
 			},
 			{
-				"header": "Low-Risk Data Migrations",
-				"detail": "I specialize in zero-downtime migrations of high-volume relational and NoSQL datastores (AzureSQL, PostgreSQL, CosmosDB, Cassandra). Using dual-write patterns, feature flags, and automated validation gates, I migrate live production traffic with absolute safety."
+				"header": "Seamless API Integration",
+				"detail": "I bridge frontend user interfaces with complex backend ecosystems, engineering robust client-side state management, async data fetching, and real-time UI updates."
 			}
 		]
 	}
