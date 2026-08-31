@@ -4,7 +4,7 @@
 		"name": "Anushree Ganta",
 		"label": "Frontend Developer",
 		"email": "anushree.ganta@gmail.com",
-		"phone": "",
+		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
 		"summary": "Frontend Developer with technical expertise in building high-performance, responsive web applications using modern JavaScript/TypeScript, React.js, and component-driven architecture. Skilled in Core Web Vitals optimization, state management, and enterprise API integration.",
 		"location": {
@@ -122,15 +122,6 @@
 				"React Query / Axios / Fetch",
 				"RESTful APIs & GraphQL",
 				"WebSockets / Real-time UI Sync"
-			]
-		},
-		{
-			"name": "UI Performance & Tooling",
-			"keywords": [
-				"Responsive Web Design",
-				"Web Performance & Core Web Vitals",
-				"Web Accessibility (WCAG 2.1, ARIA)",
-				"Git / npm / Webpack / Vite"
 			]
 		}
 	],

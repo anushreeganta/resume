@@ -1,5 +1,5 @@
-Sudhakar  Reddy  Peddinti  
-sudhakar.peddinti@walmar.com  |  816-859-4443  |  www.linkedin.com/in/sudhakar-reddy-peddinti  
+Anushree  Ganta  
+anushree.ganta@gmail.com  |  +1 669-649-0199  |  www.linkedin.com/in/anushree-ganta  
  
 PROFESSIONAL  SUMMARY  
 Results-driven  Staff  Software  Engineer  with  extensive  experience  in  designing  and  implementing  
@@ -275,4 +275,10 @@ Visvesvaraya  Technological  University,  Belgaum,  India          GPA:  3.15/4 
  
 AWARDS  &  RECOGNITION  
 ●  Awarded  for  Best  Performance  in  Problem  Management  and  Root  Cause  Analysis  at  Accenture.  ●  Recognized  for  leadership  and  innovation  in  search  technology  at  Walmart.
+
+TECHNICAL SKILLS
+● Core Frameworks & Libraries: React.js, Next.js, Vue.js, Nuxt.js, Angular, Redux, Zustand, Context API (State Management), HTML5, CSS3, JavaScript (ES6+), TypeScript
+● Styling & UI: Tailwind CSS, SASS/SCSS, LESS, Material-UI (MUI), Bootstrap, Shadcn UI, Chakra UI, CSS Modules, Styled Components, Responsive Design, Mobile-First Design, Cross-Browser Compatibility
+● Testing & Performance: Jest, Vitest, Cypress, Playwright, React Testing Library, Lighthouse, Core Web Vitals, Webpack, Vite, Babel, Performance Optimization, Lazy Loading, Code Splitting
+● Architecture & Tools: RESTful APIs, GraphQL, WebSockets, JSON, Git, GitHub, GitLab, Bitbucket, CI/CD Pipelines, Agile, Scrum, Jira, Confluence, Web Accessibility (WCAG, WAI-ARIA), SEO Best Practices
  
