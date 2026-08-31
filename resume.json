@@ -29,85 +29,31 @@
 	},
 	"work": [
 		{
-			"name": "Walmart",
-			"position": "Staff Software Engineer",
-			"location": "Sunnyvale, CA",
-			"startDate": "2023-10",
-			"endDate": "Present",
-			"summary": "Lead architectural strategy for core backend microservices and high-throughput data synchronization pipelines powering search ranking, faceted navigation, and merchandising rules for 8 Global Markets, directly optimizing search relevance to drive conversion velocity and global business revenue.",
-			"highlights": [
-				"Engineered an automated Facet Lifecycle Management backend utilizing a custom State Machine; managed 82,000+ business curations backed by CosmosDB and Elasticsearch with self-healing distributed reconciliation.",
-				"Designed a high-scale analytics pipeline integrating Azure Synapse Analytics and Control-M to ingest and analyze 500M+ monthly user interaction logs, translating telemetry into real-time merchandising adjustments.",
-				"Designed a resilient Spark Streaming and Kafka pipeline for near-real-time synchronization, implementing idempotent processing and Cassandra TTL contracts to eliminate race conditions across 100M+ catalog items.",
-				"Spearheaded performance tuning, JVM optimization (G1GC, connection pool sizing), and tech modernization of core Java microservices; standardized Kubernetes resource scaling to improve system throughput by 20%.",
-				"Architected a zero-downtime data layer migration for the Item-Pinning microservice, designing tenant-aware DAOs with dual-write synchronization across AzureSQL and GCP PostgreSQL to onboard 5 global markets with zero service interruption."
-			]
-		},
-		{
-			"name": "Walmart",
-			"position": "Senior Software Engineer",
-			"location": "Sunnyvale, CA",
-			"startDate": "2020-01",
-			"endDate": "2023-10",
-			"summary": "Owned technical design, data-model migrations, and real-time streaming architectures for core rules-management and experiment-evaluation backend microservices.",
-			"highlights": [
-				"Built the Affinity Override Spring Boot microservice from scratch, implementing custom caching policies and asynchronous Azure Blob Storage exports to ingest and process bulk data at 10k events/sec.",
-				"Architected event-driven A/B testing and interleaving experiment infrastructure, utilizing Kafka to broadcast rule updates and implementing safety gates to prevent rule collision in production.",
-				"Deconstructed a legacy monolithic application into independent Java microservices, extracting the Category Intervention service to isolate CPU resources and double deployment velocity.",
-				"Designed and deployed a Spark Streaming data pipeline to synchronize product catalog updates with Elasticsearch and Cassandra, reducing cache synchronization lag from 4 hours to under 30 seconds.",
-				"Engineered a versioned NoSQL data model for the core Rules Engine, replacing relational tables with CosmosDB schemas and executing a zero-downtime, 4-phase migration of 58,000+ business rules.",
-				"Led zero-downtime migrations from AzureSQL to GCP Cloud SQL (PostgreSQL), establishing distributed cache clusters and optimizing index strategies to support 15,000+ QPS."
-			]
-		},
-		{
-			"name": "Walmart",
-			"position": "Software Engineer III",
-			"location": "Sunnyvale, CA",
-			"startDate": "2018-01",
-			"endDate": "2020-01",
-			"summary": "Developed core Java backend microservices and scheduled data-synchronization jobs for search-curation and item-ranking systems.",
-			"highlights": [
-				"Developed core components of the Item-Pinning microservice, resolving database connection pool bottlenecks in Couchbase and improving P99 read latencies by 25%.",
-				"Engineered the Manual Shelves Syncer microservice, building high-throughput REST APIs and delta-synchronization logic to process incremental data changes in real-time.",
-				"Orchestrated complex batch data pipelines and background synchronization jobs using Control-M and Concord, ensuring reliable data delivery under strict SLA thresholds.",
-				"Designed high-performance REST APIs and scalable data models for search curation tools, implementing distributed transaction tracing to improve request observability.",
-				"Designed extensible database schemas and modular boundaries to decouple legacy monoliths into dedicated microservices, accelerating feature delivery times."
-			]
-		},
-		{
-			"name": "IBM",
-			"position": "Software Developer Intern",
+			"name": "eDiligence",
+			"position": "Frontend Developer Intern",
 			"location": "San Jose, CA",
-			"startDate": "2017-06",
-			"endDate": "2017-12",
+			"startDate": "2021-01",
+			"endDate": "2021-05",
+			"summary": "Engineered interactive data visualization dashboards and modular client-side architectures to track real-time agile development metrics.",
 			"highlights": [
-				"Engineered high-performance data ingestion mechanisms for the BigSQL development team using Apache Spark and Hive.",
-				"Integrated machine learning pipelines on the DSX platform, optimizing R and Spark backends to run distributed data analytics.",
-				"Upgraded Watson Conversation bot interfaces, streamlining asynchronous state rendering to improve user interaction latency."
+				"Architected an interactive Agile analytics platform using React.js, Redux, and D3.js, visualizing complex sprint velocity and project telemetry with dynamic chart rendering.",
+				"Designed component-driven UI library leveraging Material-UI (MUI), React Router, and CSS3, establishing responsive design templates and single-page application (SPA) routing.",
+				"Built a high-performance Node.js & Express REST API tier integrated with MongoDB, implementing NoSQL schema optimization for low-latency data retrieval.",
+				"Optimized client-side rendering and state hydration, tuning React component render cycles to ensure 60fps animation performance."
 			]
 		},
 		{
-			"name": "Accenture",
-			"position": "Software Engineer",
+			"name": "Accenture Pvt. Ltd.",
+			"position": "Application Development Associate",
 			"location": "Bangalore, India",
-			"startDate": "2013-01",
-			"endDate": "2015-08",
+			"startDate": "2018-08",
+			"endDate": "2020-11",
+			"summary": "Spearheaded frontend feature development, UI component modularization, and web performance optimization for enterprise eCommerce platforms.",
 			"highlights": [
-				"Optimized relational database queries and index strategies for enterprise Java applications, reducing query execution latency by 40%.",
-				"Developed backend REST APIs and business logic using Java, Hibernate, and Spring MVC, ensuring strict adherence to performance and security standards.",
-				"Built and managed automated CI/CD pipelines using Jenkins and Maven, accelerating build and deployment cycles for production releases."
-			]
-		},
-		{
-			"name": "University of Missouri - Kansas City",
-			"position": "Graduate Research Assistant",
-			"location": "Kansas City, MO",
-			"startDate": "2016-07",
-			"endDate": "2017-05",
-			"highlights": [
-				"Engineered serverless backend APIs using Node.js, AWS Lambda, API Gateway, and S3 to ingest and store large datasets.",
-				"Developed a React.js and Redux-based web dashboard to visualize complex data analytics patterns in real-time.",
-				"Partnered with Cox Automotive to analyze operational workflows within autocare service departments, performing statistical modeling on time-intensive processes to identify bottlenecks and deliver data-driven efficiency insights."
+				"Engineered interactive analytics dashboards in React.js featuring customizable drag-and-drop UI components and CSS3 Flexbox/Grid layouts, boosting user productivity.",
+				"Optimized enterprise eCommerce frontend web applications using modern JavaScript (ES6+), Core-JS polyfills, and jQuery, resolving cross-browser compatibility and legacy code bottlenecks.",
+				"Implemented Real User Monitoring (RUM) and client-side performance telemetry using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25%.",
+				"Standardized automated CI/CD frontend build and deployment workflows using Jenkins and npm, accelerating release cycles and automated test execution."
 			]
 		}
 	],
@@ -185,16 +131,6 @@
 				"Web Accessibility (WCAG 2.1, ARIA)",
 				"Design Systems & Component Libraries",
 				"Cross-Browser Compatibility"
-			]
-		},
-		{
-			"name": "Testing & Build Tooling",
-			"keywords": [
-				"Vite / Webpack / Babel",
-				"Jest / React Testing Library",
-				"Cypress / Playwright E2E Testing",
-				"Git / GitHub Actions CI/CD",
-				"ESLint / Prettier Automation"
 			]
 		}
 	],
