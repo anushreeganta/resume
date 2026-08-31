@@ -6,7 +6,7 @@
 		"email": "anushree.ganta@gmail.com",
 		"phone": "",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Frontend Developer with technical expertise in designing, developing, and optimizing high-performance web applications. Skilled in modern JavaScript/TypeScript ecosystems, HTML5/CSS3, React, state management frameworks, UI component architecture, and REST/GraphQL API integration. Passionate about building responsive, accessible, and user-centric web applications with emphasis on web performance, cross-browser compatibility, and modern design systems.",
+		"summary": "Frontend Developer with technical expertise in building high-performance, responsive web applications using modern JavaScript/TypeScript, React.js, and component-driven architecture. Skilled in Core Web Vitals optimization, state management, and enterprise API integration.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -37,9 +37,8 @@
 			"summary": "Architected a scalable frontend platform, data visualization dashboards, and automated PLM workflows powering Google's Global Supply Management operations.",
 			"highlights": [
 				"Architected a modular frontend web platform for Google’s Global Supply Management ecosystem using Appmaker, modern JavaScript (ES6+), TypeScript, and component-driven UI architecture.",
-				"Engineered enterprise analytics dashboards for cost modeling, supplier intelligence, and part readiness, modernizing legacy infrastructure and boosting system reliability by 35%.",
-				"Built high-throughput data pipelines and automated Product Lifecycle Management (PLM) workflows integrating BigQuery, Cloud SQL, PLX, and Google Apps Script.",
-				"Unified multi-source supply chain metrics into interactive web visual components and Tableau dashboards, accelerating data-driven procurement workflows."
+				"Engineered enterprise analytics dashboards for cost modeling and supplier intelligence, modernizing legacy infrastructure and boosting system reliability by 35%.",
+				"Built high-throughput data pipelines and automated PLM workflows integrating BigQuery, Cloud SQL, PLX, Google Apps Script, and Tableau."
 			]
 		},
 		{
@@ -51,9 +50,8 @@
 			"summary": "Engineered interactive data visualization dashboards and modular client-side architectures to track real-time agile development metrics.",
 			"highlights": [
 				"Architected an interactive Agile analytics platform using React.js, Redux, and D3.js, visualizing complex sprint velocity and project telemetry with dynamic chart rendering.",
-				"Designed component-driven UI library leveraging Material-UI (MUI), React Router, and CSS3, establishing responsive design templates and single-page application (SPA) routing.",
-				"Built a high-performance Node.js & Express REST API tier integrated with MongoDB, implementing NoSQL schema optimization for low-latency data retrieval.",
-				"Optimized client-side rendering and state hydration, tuning React component render cycles to ensure 60fps animation performance."
+				"Designed component-driven UI library leveraging Material-UI (MUI), React Router, and CSS3 for single-page application (SPA) routing.",
+				"Built a high-performance Node.js & Express REST API tier integrated with MongoDB, implementing NoSQL schema optimization for low-latency data retrieval."
 			]
 		},
 		{
@@ -64,10 +62,9 @@
 			"endDate": "2020-11",
 			"summary": "Spearheaded frontend feature development, UI component modularization, and web performance optimization for enterprise eCommerce platforms.",
 			"highlights": [
-				"Engineered interactive analytics dashboards in React.js featuring customizable drag-and-drop UI components and CSS3 Flexbox/Grid layouts, boosting user productivity.",
-				"Optimized enterprise eCommerce frontend web applications using modern JavaScript (ES6+), Core-JS polyfills, and jQuery, resolving cross-browser compatibility and legacy code bottlenecks.",
-				"Implemented Real User Monitoring (RUM) and client-side performance telemetry using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25%.",
-				"Standardized automated CI/CD frontend build and deployment workflows using Jenkins and npm, accelerating release cycles and automated test execution."
+				"Engineered interactive analytics dashboards in React.js featuring customizable drag-and-drop UI components and CSS Flexbox/Grid layouts.",
+				"Optimized enterprise eCommerce frontend web applications using modern JavaScript (ES6+), Core-JS polyfills, and jQuery, resolving cross-browser compatibility bottlenecks.",
+				"Implemented Real User Monitoring (RUM) using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25%."
 			]
 		}
 	],
@@ -91,81 +88,53 @@
 	],
 	"projects": [
 		{
-			"name": "RecallExplain AI",
-			"description": "An AI-powered search recall diagnostics and explainability tool built using LangGraph.",
+			"name": "Blink – Anonymous Workplace Community Platform",
+			"description": "A distributed, responsive web application for workplace discussions and anonymous telemetry.",
 			"highlights": [
-				"Architected a multi-agent LangGraph workflow to trace, analyze, and explain item retrieval paths within recommendation engines.",
-				"Designed semantic search tracing and query-intent explanation tools, reducing query-to-item recommendation debugging times for backend engineers."
+				"Architected a responsive web client using React.js, Redux, and CSS Grid, establishing accessible, mobile-first component layouts.",
+				"Implemented decoupled message queue middleware to handle real-time feed updates and scalable horizontal message rendering."
 			]
 		},
 		{
-			"name": "Docker Failover & Load Balancing Engine",
-			"description": "A dynamic container orchestration system to automate resource scaling and failover recovery.",
+			"name": "Online Banking Web Application",
+			"description": "A secure, multi-role financial application supporting real-time transaction workflows.",
 			"highlights": [
-				"Architected a Java-based container monitoring daemon that detects CPU/memory exhaustion and dynamically reallocates Docker containers.",
-				"Implemented threshold-based load-balancing algorithms to achieve zero-downtime container migration during node failure simulations."
-			]
-		},
-		{
-			"name": "Hybrid Curation & Recommendation System",
-			"description": "A personalized food curation and recommendation platform based on nutritional profiles and preferences.",
-			"highlights": [
-				"Engineered a recommendation engine that processes user nutritional data to output real-time personalized meal configurations.",
-				"Designed and deployed a mobile client with local data syncing, allowing offline rule evaluation and low-latency rendering."
+				"Developed customer and admin portals using React.js, Redux, and interactive React-Draggable UI components.",
+				"Integrated 256-bit AES encryption and secure client authentication for low-latency payment processing."
 			]
 		}
 	],
 	"skills": [
 		{
-			"name": "Frontend Frameworks & Web Technologies",
+			"name": "Frontend Frameworks & Core Web",
 			"keywords": [
 				"JavaScript (ES6+) / TypeScript",
 				"React.js / Next.js",
-				"HTML5 / Semantic Markup",
-				"CSS3 / SCSS / Tailwind CSS",
+				"HTML5 / CSS3 / SCSS",
 				"Component-Driven Development",
 				"Single Page Applications (SPA)"
 			]
 		},
 		{
-			"name": "State Management & API Integration",
+			"name": "State Management & Data Layer",
 			"keywords": [
 				"Redux Toolkit / Context API",
 				"React Query / Axios / Fetch",
 				"RESTful APIs & GraphQL",
-				"WebSockets / Real-time UI Sync",
-				"Client-side Caching & Data Hydration"
+				"WebSockets / Real-time UI Sync"
 			]
 		},
 		{
-			"name": "UI/UX & Web Performance",
+			"name": "UI Performance & Tooling",
 			"keywords": [
-				"Responsive & Adaptive Layouts",
+				"Responsive Web Design",
 				"Web Performance & Core Web Vitals",
 				"Web Accessibility (WCAG 2.1, ARIA)",
-				"Design Systems & Component Libraries",
-				"Cross-Browser Compatibility"
+				"Git / npm / Webpack / Vite"
 			]
 		}
 	],
 	"publications": [],
 	"awards": [],
-	"certificates": [],
-	"key_differentiators": {
-		"summary": "Why hire me as a Frontend Developer",
-		"points": [
-			{
-				"header": "Modern Web Architecture",
-				"detail": "I design and build intuitive, scalable, and modular web applications using modern JavaScript/TypeScript frameworks. By leveraging component-driven architecture and design systems, I deliver maintainable frontend code bases."
-			},
-			{
-				"header": "User Experience & Performance Optimization",
-				"detail": "I specialize in optimizing web applications for fast load times, smooth interactions, and accessibility. By tuning bundle sizes, rendering paths, and Core Web Vitals, I ensure exceptional user experiences."
-			},
-			{
-				"header": "Seamless API Integration",
-				"detail": "I bridge frontend user interfaces with complex backend ecosystems, engineering robust client-side state management, async data fetching, and real-time UI updates."
-			}
-		]
-	}
+	"certificates": []
 }
