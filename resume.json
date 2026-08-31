@@ -29,6 +29,20 @@
 	},
 	"work": [
 		{
+			"name": "Google (via GlobalLogic)",
+			"position": "Software Engineer",
+			"location": "San Jose, CA",
+			"startDate": "2023-01",
+			"endDate": "2026-01",
+			"summary": "Architected a scalable frontend platform, data visualization dashboards, and automated PLM workflows powering Google's Global Supply Management operations.",
+			"highlights": [
+				"Architected a modular frontend web platform for Google’s Global Supply Management ecosystem using Appmaker, modern JavaScript (ES6+), TypeScript, and component-driven UI architecture.",
+				"Engineered enterprise analytics dashboards for cost modeling, supplier intelligence, and part readiness, modernizing legacy infrastructure and boosting system reliability by 35%.",
+				"Built high-throughput data pipelines and automated Product Lifecycle Management (PLM) workflows integrating BigQuery, Cloud SQL, PLX, and Google Apps Script.",
+				"Unified multi-source supply chain metrics into interactive web visual components and Tableau dashboards, accelerating data-driven procurement workflows."
+			]
+		},
+		{
 			"name": "eDiligence",
 			"position": "Frontend Developer Intern",
 			"location": "San Jose, CA",
@@ -59,20 +73,20 @@
 	],
 	"education": [
 		{
-			"institution": "University of Missouri - Kansas City",
-			"area": "Computer Science",
+			"institution": "San José State University",
+			"area": "Software Engineering",
 			"studyType": "M.S.",
-			"startDate": "2015",
-			"endDate": "2017",
-			"gpa": "3.73"
+			"startDate": "2021-01",
+			"endDate": "2022-12",
+			"gpa": "3.9/4.0"
 		},
 		{
 			"institution": "Visvesvaraya Technological University",
-			"area": "Electronics & Communications Engineering",
+			"area": "Computer Engineering",
 			"studyType": "B.E.",
-			"startDate": "2008",
-			"endDate": "2012",
-			"gpa": "3.15"
+			"startDate": "2014-08",
+			"endDate": "2018-06",
+			"gpa": "8/10"
 		}
 	],
 	"projects": [
