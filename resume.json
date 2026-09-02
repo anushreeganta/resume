@@ -50,8 +50,7 @@
 			"summary": "Engineered interactive data visualization dashboards and modular client-side architectures to track real-time agile development metrics.",
 			"highlights": [
 				"Architected an interactive Agile analytics platform using React.js, Redux, and D3.js, visualizing complex sprint velocity and project telemetry with dynamic chart rendering.",
-				"Designed component-driven UI library leveraging Material-UI (MUI), React Router, and CSS3 for single-page application (SPA) routing.",
-				"Built a high-performance Node.js & Express REST API tier integrated with MongoDB, implementing NoSQL schema optimization for low-latency data retrieval."
+				"Designed component-driven UI library leveraging Material-UI (MUI), React Router, and CSS3 for single-page application (SPA) routing."
 			]
 		},
 		{
