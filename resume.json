@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Anushree Ganta",
-		"label": "Frontend Developer",
+		"label": "Fullstack Developer",
 		"email": "anushree.ganta@gmail.com",
 		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Frontend Developer with technical expertise in building high-performance, responsive web applications using modern JavaScript/TypeScript, React.js, and component-driven architecture. Skilled in Core Web Vitals optimization, state management, and enterprise API integration.",
+		"summary": "Fullstack Developer with technical expertise in building high-performance, responsive web applications using modern JavaScript/TypeScript, React.js, and component-driven architecture. Skilled in Core Web Vitals optimization, state management, and enterprise API integration.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
