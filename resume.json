@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Anushree Ganta",
-		"label": "Full-Stack Web Developer",
+		"label": "Full-Stack Software Engineer",
 		"email": "anushree.ganta@gmail.com",
 		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Full-Stack Web Developer with technical expertise in building open-source platforms, researcher dashboards, web experiments, and responsive web applications using JavaScript/TypeScript, React.js, Next.js, and Node.js. Skilled in internationalization (i18n), WCAG accessibility, CMS integrations, and Core Web Vitals optimization.",
+		"summary": "Full-Stack Software Engineer specializing in Vue.js 3 (Composition API), Node.js, TypeScript, and PostgreSQL (CloudSQL). Experienced in building accessible dashboards, score reporting interfaces, RESTful APIs, headless CMS integrations, and GCP cloud services with a strong focus on EdTech and web performance.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -34,10 +34,10 @@
 			"location": "San Jose, CA",
 			"startDate": "2023-01",
 			"endDate": "2026-02",
-			"summary": "Architected scalable web platforms, researcher/analytics dashboards, and automated PLM workflows powering Google's Global Supply Management operations in cross-functional Agile environments.",
+			"summary": "Architected scalable web platforms, modern dashboards, and automated PLM/scoring workflows powering Google's Global Supply Management operations in Agile team settings.",
 			"highlights": [
-				"Architected modular open-source web platform features and researcher dashboards using React.js, Next.js, JavaScript (ES6+), and TypeScript, incorporating internationalization (i18n) and responsive design.",
-				"Engineered full-stack analytics dashboards and automated data pipelines (BigQuery, Cloud SQL, REST APIs), modernizing legacy infrastructure and boosting system reliability by 35%."
+				"Architected modular frontend platforms and dashboards using Vue.js 3 (Composition API), React.js, TypeScript, and modern JavaScript (ES6+), leading dashboard modernization for accessible UX.",
+				"Engineered full-stack RESTful APIs (Node.js, Express) and automated data pipelines with PostgreSQL (CloudSQL) and BigQuery, boosting system reliability by 35%."
 			]
 		},
 		{
@@ -46,10 +46,10 @@
 			"location": "San Jose, CA",
 			"startDate": "2021-01",
 			"endDate": "2021-05",
-			"summary": "Engineered interactive data visualization dashboards and modular client/server-side architectures to track real-time research and development metrics.",
+			"summary": "Engineered interactive data visualization dashboards and modular client/server-side services to track real-time analytics and telemetry metrics.",
 			"highlights": [
-				"Architected an interactive analytics platform and researcher tools using React.js, Redux, and D3.js, visualizing complex telemetry data and experimental velocity with dynamic charts.",
-				"Designed component-driven UI libraries leveraging Material-UI (MUI), and built high-performance Node.js & Express REST APIs integrated with MongoDB schema optimization."
+				"Architected an interactive analytics platform and score reporting interface using Vue.js 3, React, and D3.js, visualizing complex telemetry with dynamic charts.",
+				"Built high-performance Node.js & Express REST APIs integrated with PostgreSQL and MongoDB schema optimization, ensuring low-latency assessment data delivery."
 			]
 		},
 		{
@@ -58,10 +58,10 @@
 			"location": "Bangalore, India",
 			"startDate": "2018-08",
 			"endDate": "2020-11",
-			"summary": "Spearheaded full-stack feature development, CMS module customization, UI component modularization, and web performance optimization for enterprise web platforms.",
+			"summary": "Spearheaded full-stack feature development, UI component modularization, headless CMS integrations, and web performance optimization for enterprise web applications.",
 			"highlights": [
-				"Engineered interactive analytics web pages and tools using React.js, Node.js, and clean SEO-friendly HTML5/CSS3 code, evaluating third-party modules for accessibility and maintainability.",
-				"Implemented Real User Monitoring (RUM) using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25% across diverse devices and browsers."
+				"Engineered interactive dashboard interfaces using Vue.js, Node.js, and headless CMS platforms, writing end-to-end Cypress tests and evaluating third-party modules for accessibility.",
+				"Implemented Real User Monitoring (RUM) and Core Web Vitals profiling, optimizing page load speeds by 25% across diverse devices and streamlining GCP CI/CD deployments."
 			]
 		}
 	],
@@ -86,47 +86,47 @@
 	"projects": [
 		{
 			"name": "Blink – Anonymous Workplace Community Platform",
-			"description": "An open-source, responsive full-stack web application for community discussions and real-time telemetry.",
+			"description": "A distributed, responsive full-stack web application for community discussions and real-time telemetry.",
 			"highlights": [
-				"Architected an accessible, mobile-first web client using React.js, Redux, and CSS Grid with internationalization support and decoupled message queue middleware for real-time updates."
+				"Architected an accessible web client using Vue.js 3, Redux, and CSS Grid with Firebase authentication and decoupled message queue middleware for real-time updates."
 			]
 		},
 		{
 			"name": "Online Banking Web Application",
-			"description": "A secure, multi-role web application supporting real-time user workflows and data visualization.",
+			"description": "A secure, multi-role web application supporting real-time transaction workflows and score reporting.",
 			"highlights": [
-				"Engineered customer and admin web portals in React.js and Node.js with WCAG accessibility standards, OAuth authentication, and low-latency API data processing."
+				"Engineered customer and admin portals using Vue.js 3, TypeScript, and Node.js REST APIs backed by PostgreSQL with student data privacy (FERPA/COPPA) standards."
 			]
 		}
 	],
 	"skills": [
 		{
-			"name": "Full-Stack & Web Architecture",
+			"name": "Frontend & UI Architecture",
 			"keywords": [
-				"JavaScript (ES6+) / TypeScript",
-				"React.js / Next.js / HTML5 / CSS3",
-				"Node.js / Express / REST APIs / GraphQL",
-				"Open-Source Web Application Development",
-				"Component-Driven UI / Mobile-First Design"
+				"Vue.js 3 (Composition API) / React.js",
+				"TypeScript / JavaScript (ES6+)",
+				"HTML5 / CSS3 / SASS / Mobile-First UI",
+				"Dashboard Modernization / Accessibility (WCAG)",
+				"Data Visualization (D3.js / Score Reporting)"
 			]
 		},
 		{
-			"name": "Dashboards & Web Experiments",
+			"name": "Backend & Data Layer",
 			"keywords": [
-				"Researcher Dashboards & Admin Tools",
-				"Internationalization (i18n) / Localization",
-				"Data Visualization (D3.js / Charts)",
-				"SEO Best Practices & Clean Code",
-				"Web Accessibility (WCAG 2.1, ARIA)"
+				"Node.js / Express / RESTful APIs",
+				"PostgreSQL (CloudSQL) / Schema & Migrations",
+				"Headless CMS (Contentful, Strapi, Payload)",
+				"Firebase (Auth, Hosting) / OAuth Security",
+				"GCP (Cloud Run, CloudSQL, GCS, IAM)"
 			]
 		},
 		{
-			"name": "DevOps, CMS & Methodology",
+			"name": "Quality & DevOps",
 			"keywords": [
-				"Content Management Systems (CMS) & Modules",
-				"Web Performance & Core Web Vitals",
-				"Git / GitHub Actions CI/CD / Open-Source",
-				"Agile / Scrum / Cross-Functional Collaboration"
+				"Cypress E2E Testing / Jest Unit Testing",
+				"Git / GitHub Projects / CI/CD Pipelines",
+				"AI-Assisted Development Tools Workflow",
+				"EdTech / FERPA & COPPA Data Privacy"
 			]
 		}
 	],

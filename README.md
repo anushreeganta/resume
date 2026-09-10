@@ -1,11 +1,11 @@
 # Anushree Ganta
-_Full-Stack Web Developer_
+_Full-Stack Software Engineer_
 
 [![Build Resume](https://github.com/anushreeganta/resume/actions/workflows/resume.yml/badge.svg)](https://github.com/anushreeganta/resume/actions/workflows/resume.yml)
 
 ---
 
-I am a Full-Stack Web Developer with technical expertise in building open-source web platforms, researcher dashboards, web experiments, and responsive web applications. I specialize in modern web technologies, modern JavaScript/TypeScript, React.js, Next.js, Node.js, internationalization (i18n), WCAG accessibility, and web performance optimization.
+I am a Full-Stack Software Engineer specializing in Vue.js 3 (Composition API), Node.js, TypeScript, and PostgreSQL (CloudSQL). I specialize in building accessible dashboards, score reporting interfaces, RESTful APIs, headless CMS integrations, and GCP cloud services with a focus on web performance and clean software architecture.
 
 My focus is on creating intuitive user experiences, modular component architecture, and seamless design system implementations for enterprise web applications.
 
