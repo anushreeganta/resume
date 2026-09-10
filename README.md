@@ -1,11 +1,11 @@
 # Anushree Ganta
-_Full-Stack Software Engineer_
+_Senior Fullstack Engineer_
 
 [![Build Resume](https://github.com/anushreeganta/resume/actions/workflows/resume.yml/badge.svg)](https://github.com/anushreeganta/resume/actions/workflows/resume.yml)
 
 ---
 
-I am a Full-Stack Software Engineer specializing in Vue.js 3 (Composition API), Node.js, TypeScript, and PostgreSQL (CloudSQL). I specialize in building accessible dashboards, score reporting interfaces, RESTful APIs, headless CMS integrations, and GCP cloud services with a focus on web performance and clean software architecture.
+I am a Senior Fullstack Engineer with 5+ years of experience designing high-performance, secure web applications and financial payment systems. I specialize in ReactJS, TypeScript, Node.js, REST/GraphQL APIs, WebSockets, SQL/NoSQL datastores, web security (CSP, 256-bit encryption), and performance optimization.
 
 My focus is on creating intuitive user experiences, modular component architecture, and seamless design system implementations for enterprise web applications.
 
