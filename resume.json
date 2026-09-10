@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Anushree Ganta",
-		"label": "Full-Stack Engineer",
+		"label": "Full-Stack Web Developer",
 		"email": "anushree.ganta@gmail.com",
 		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Frontend-focused Full-Stack Engineer with technical expertise in building high-performance, responsive web applications and high-volume eCommerce platforms using JavaScript/TypeScript, React.js, Next.js, and Node.js. Skilled in mobile-first UI architecture, REST/GraphQL APIs, CI/CD, and Core Web Vitals optimization.",
+		"summary": "Full-Stack Web Developer with technical expertise in building open-source platforms, researcher dashboards, web experiments, and responsive web applications using JavaScript/TypeScript, React.js, Next.js, and Node.js. Skilled in internationalization (i18n), WCAG accessibility, CMS integrations, and Core Web Vitals optimization.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -34,9 +34,9 @@
 			"location": "San Jose, CA",
 			"startDate": "2023-01",
 			"endDate": "2026-02",
-			"summary": "Architected scalable web platforms, analytics dashboards, and automated PLM workflows powering Google's Global Supply Management operations in Agile environments using the Atlassian suite.",
+			"summary": "Architected scalable web platforms, researcher/analytics dashboards, and automated PLM workflows powering Google's Global Supply Management operations in cross-functional Agile environments.",
 			"highlights": [
-				"Architected modular web platform features using React.js, Next.js, JavaScript (ES6+), and TypeScript, leveraging component-driven UI architecture and mobile-first responsive design.",
+				"Architected modular open-source web platform features and researcher dashboards using React.js, Next.js, JavaScript (ES6+), and TypeScript, incorporating internationalization (i18n) and responsive design.",
 				"Engineered full-stack analytics dashboards and automated data pipelines (BigQuery, Cloud SQL, REST APIs), modernizing legacy infrastructure and boosting system reliability by 35%."
 			]
 		},
@@ -46,10 +46,10 @@
 			"location": "San Jose, CA",
 			"startDate": "2021-01",
 			"endDate": "2021-05",
-			"summary": "Engineered interactive data visualization dashboards and modular client/server-side architectures to track real-time agile development metrics.",
+			"summary": "Engineered interactive data visualization dashboards and modular client/server-side architectures to track real-time research and development metrics.",
 			"highlights": [
-				"Architected an interactive Agile analytics platform using React.js, Redux, and D3.js, visualizing complex telemetry and sprint velocity within Atlassian toolsets (Jira/Confluence).",
-				"Designed component-driven UI libraries using Material-UI (MUI) and SASS, and built high-performance Node.js & Express REST APIs with MongoDB schema optimization."
+				"Architected an interactive analytics platform and researcher tools using React.js, Redux, and D3.js, visualizing complex telemetry data and experimental velocity with dynamic charts.",
+				"Designed component-driven UI libraries leveraging Material-UI (MUI), and built high-performance Node.js & Express REST APIs integrated with MongoDB schema optimization."
 			]
 		},
 		{
@@ -58,10 +58,10 @@
 			"location": "Bangalore, India",
 			"startDate": "2018-08",
 			"endDate": "2020-11",
-			"summary": "Spearheaded full-stack feature development, UI component modularization, and web performance optimization for high-volume enterprise eCommerce platforms.",
+			"summary": "Spearheaded full-stack feature development, CMS module customization, UI component modularization, and web performance optimization for enterprise web platforms.",
 			"highlights": [
-				"Engineered interactive analytics dashboards and eCommerce storefront features using React.js, Node.js, and FE build tools (Vite, Webpack, SASS), resolving cross-browser compatibility bottlenecks.",
-				"Implemented Real User Monitoring (RUM) using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25% and streamline CI/CD pipeline deployments."
+				"Engineered interactive analytics web pages and tools using React.js, Node.js, and clean SEO-friendly HTML5/CSS3 code, evaluating third-party modules for accessibility and maintainability.",
+				"Implemented Real User Monitoring (RUM) using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25% across diverse devices and browsers."
 			]
 		}
 	],
@@ -86,47 +86,47 @@
 	"projects": [
 		{
 			"name": "Blink – Anonymous Workplace Community Platform",
-			"description": "A distributed, responsive full-stack web application for workplace discussions and real-time telemetry.",
+			"description": "An open-source, responsive full-stack web application for community discussions and real-time telemetry.",
 			"highlights": [
-				"Architected a mobile-first web client using React.js, Redux, and CSS Grid with OAuth authentication and decoupled message queue middleware for real-time feed updates."
+				"Architected an accessible, mobile-first web client using React.js, Redux, and CSS Grid with internationalization support and decoupled message queue middleware for real-time updates."
 			]
 		},
 		{
 			"name": "Online Banking Web Application",
-			"description": "A secure, multi-role financial application supporting real-time transaction workflows.",
+			"description": "A secure, multi-role web application supporting real-time user workflows and data visualization.",
 			"highlights": [
-				"Engineered customer and admin portals in React.js and Node.js with Auth0/OAuth2 authentication and 256-bit AES encryption for low-latency payment processing."
+				"Engineered customer and admin web portals in React.js and Node.js with WCAG accessibility standards, OAuth authentication, and low-latency API data processing."
 			]
 		}
 	],
 	"skills": [
 		{
-			"name": "Frontend & eCommerce",
+			"name": "Full-Stack & Web Architecture",
 			"keywords": [
 				"JavaScript (ES6+) / TypeScript",
-				"React.js / Next.js / Liquid",
-				"HTML5 / CSS3 / SASS / LESS",
-				"Mobile-First UI / Material-UI (MUI)",
-				"Shopify CLI / Custom Apps / Webpack / Vite"
+				"React.js / Next.js / HTML5 / CSS3",
+				"Node.js / Express / REST APIs / GraphQL",
+				"Open-Source Web Application Development",
+				"Component-Driven UI / Mobile-First Design"
 			]
 		},
 		{
-			"name": "Backend & System Architecture",
+			"name": "Dashboards & Web Experiments",
 			"keywords": [
-				"Node.js / Express / REST APIs",
-				"GraphQL / WebSockets / JSON",
-				"SQL / NoSQL / MongoDB / ORM",
-				"OAuth2 / Auth0 / Security",
-				"Docker / AWS / CI/CD"
+				"Researcher Dashboards & Admin Tools",
+				"Internationalization (i18n) / Localization",
+				"Data Visualization (D3.js / Charts)",
+				"SEO Best Practices & Clean Code",
+				"Web Accessibility (WCAG 2.1, ARIA)"
 			]
 		},
 		{
-			"name": "Methodology & Tooling",
+			"name": "DevOps, CMS & Methodology",
 			"keywords": [
-				"Agile / Scrum / Atlassian (Jira, Confluence)",
-				"Git Branching & Rebasing",
-				"Unit Testing (Jest) / Monitoring",
-				"Core Web Vitals / RUM Optimization"
+				"Content Management Systems (CMS) & Modules",
+				"Web Performance & Core Web Vitals",
+				"Git / GitHub Actions CI/CD / Open-Source",
+				"Agile / Scrum / Cross-Functional Collaboration"
 			]
 		}
 	],
