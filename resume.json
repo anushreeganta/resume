@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Anushree Ganta",
-		"label": "Fullstack Developer",
+		"label": "Full-Stack Engineer",
 		"email": "anushree.ganta@gmail.com",
 		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Fullstack Developer with technical expertise in building high-performance, responsive web applications using modern JavaScript/TypeScript, React.js, and component-driven architecture. Skilled in Core Web Vitals optimization, state management, and enterprise API integration.",
+		"summary": "Frontend-focused Full-Stack Engineer with technical expertise in building high-performance, responsive web applications and high-volume eCommerce platforms using JavaScript/TypeScript, React.js, Next.js, and Node.js. Skilled in mobile-first UI architecture, REST/GraphQL APIs, CI/CD, and Core Web Vitals optimization.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -34,23 +34,22 @@
 			"location": "San Jose, CA",
 			"startDate": "2023-01",
 			"endDate": "2026-02",
-			"summary": "Architected a scalable frontend platform, data visualization dashboards, and automated PLM workflows powering Google's Global Supply Management operations.",
+			"summary": "Architected scalable web platforms, analytics dashboards, and automated PLM workflows powering Google's Global Supply Management operations in Agile environments using the Atlassian suite.",
 			"highlights": [
-				"Architected a modular frontend web platform for Google’s Global Supply Management ecosystem using Appmaker, modern JavaScript (ES6+), TypeScript, and component-driven UI architecture.",
-				"Engineered enterprise analytics dashboards for cost modeling and supplier intelligence, modernizing legacy infrastructure and boosting system reliability by 35%.",
-				"Built high-throughput data pipelines and automated PLM workflows integrating BigQuery, Cloud SQL, PLX, Google Apps Script, and Tableau."
+				"Architected modular web platform features using React.js, Next.js, JavaScript (ES6+), and TypeScript, leveraging component-driven UI architecture and mobile-first responsive design.",
+				"Engineered full-stack analytics dashboards and automated data pipelines (BigQuery, Cloud SQL, REST APIs), modernizing legacy infrastructure and boosting system reliability by 35%."
 			]
 		},
 		{
 			"name": "eDiligence",
-			"position": "Frontend Developer Intern",
+			"position": "Full-Stack Developer Intern",
 			"location": "San Jose, CA",
 			"startDate": "2021-01",
 			"endDate": "2021-05",
-			"summary": "Engineered interactive data visualization dashboards and modular client-side architectures to track real-time agile development metrics.",
+			"summary": "Engineered interactive data visualization dashboards and modular client/server-side architectures to track real-time agile development metrics.",
 			"highlights": [
-				"Architected an interactive Agile analytics platform using React.js, Redux, and D3.js, visualizing complex sprint velocity and project telemetry with dynamic chart rendering.",
-				"Designed component-driven UI library leveraging Material-UI (MUI), React Router, and CSS3 for single-page application (SPA) routing."
+				"Architected an interactive Agile analytics platform using React.js, Redux, and D3.js, visualizing complex telemetry and sprint velocity within Atlassian toolsets (Jira/Confluence).",
+				"Designed component-driven UI libraries using Material-UI (MUI) and SASS, and built high-performance Node.js & Express REST APIs with MongoDB schema optimization."
 			]
 		},
 		{
@@ -59,11 +58,10 @@
 			"location": "Bangalore, India",
 			"startDate": "2018-08",
 			"endDate": "2020-11",
-			"summary": "Spearheaded frontend feature development, UI component modularization, and web performance optimization for enterprise eCommerce platforms.",
+			"summary": "Spearheaded full-stack feature development, UI component modularization, and web performance optimization for high-volume enterprise eCommerce platforms.",
 			"highlights": [
-				"Engineered interactive analytics dashboards in React.js featuring customizable drag-and-drop UI components and CSS Flexbox/Grid layouts.",
-				"Optimized enterprise eCommerce frontend web applications using modern JavaScript (ES6+), Core-JS polyfills, and jQuery, resolving cross-browser compatibility bottlenecks.",
-				"Implemented Real User Monitoring (RUM) using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25%."
+				"Engineered interactive analytics dashboards and eCommerce storefront features using React.js, Node.js, and FE build tools (Vite, Webpack, SASS), resolving cross-browser compatibility bottlenecks.",
+				"Implemented Real User Monitoring (RUM) using Boomerang.js, analyzing Core Web Vitals to optimize page load speeds by 25% and streamline CI/CD pipeline deployments."
 			]
 		}
 	],
@@ -88,39 +86,47 @@
 	"projects": [
 		{
 			"name": "Blink – Anonymous Workplace Community Platform",
-			"description": "A distributed, responsive web application for workplace discussions and anonymous telemetry.",
+			"description": "A distributed, responsive full-stack web application for workplace discussions and real-time telemetry.",
 			"highlights": [
-				"Architected a responsive web client using React.js, Redux, and CSS Grid, establishing accessible, mobile-first component layouts.",
-				"Implemented decoupled message queue middleware to handle real-time feed updates and scalable horizontal message rendering."
+				"Architected a mobile-first web client using React.js, Redux, and CSS Grid with OAuth authentication and decoupled message queue middleware for real-time feed updates."
 			]
 		},
 		{
 			"name": "Online Banking Web Application",
 			"description": "A secure, multi-role financial application supporting real-time transaction workflows.",
 			"highlights": [
-				"Developed customer and admin portals using React.js, Redux, and interactive React-Draggable UI components.",
-				"Integrated 256-bit AES encryption and secure client authentication for low-latency payment processing."
+				"Engineered customer and admin portals in React.js and Node.js with Auth0/OAuth2 authentication and 256-bit AES encryption for low-latency payment processing."
 			]
 		}
 	],
 	"skills": [
 		{
-			"name": "Frontend Frameworks & Core Web",
+			"name": "Frontend & eCommerce",
 			"keywords": [
 				"JavaScript (ES6+) / TypeScript",
-				"React.js / Next.js",
-				"HTML5 / CSS3 / SCSS",
-				"Component-Driven Development",
-				"Single Page Applications (SPA)"
+				"React.js / Next.js / Liquid",
+				"HTML5 / CSS3 / SASS / LESS",
+				"Mobile-First UI / Material-UI (MUI)",
+				"Shopify CLI / Custom Apps / Webpack / Vite"
 			]
 		},
 		{
-			"name": "State Management & Data Layer",
+			"name": "Backend & System Architecture",
 			"keywords": [
-				"Redux Toolkit / Context API",
-				"React Query / Axios / Fetch",
-				"RESTful APIs & GraphQL",
-				"WebSockets / Real-time UI Sync"
+				"Node.js / Express / REST APIs",
+				"GraphQL / WebSockets / JSON",
+				"SQL / NoSQL / MongoDB / ORM",
+				"OAuth2 / Auth0 / Security",
+				"Docker / AWS / CI/CD"
+			]
+		},
+		{
+			"name": "Methodology & Tooling",
+			"keywords": [
+				"Agile / Scrum / Atlassian (Jira, Confluence)",
+				"Git Branching & Rebasing",
+				"Unit Testing (Jest) / Monitoring",
+				"Core Web Vitals / RUM Optimization"
 			]
 		}
 	],
