@@ -38,7 +38,9 @@
 			"highlights": [
 				"Architected enterprise-grade UI components using ReactJS, TypeScript, and modern JavaScript (ES6+), establishing modular frontend architectures and WCAG accessibility standards.",
 				"Engineered full-stack RESTful APIs & GraphQL endpoints (Node.js, Express) with SQL & NoSQL datastores (BigQuery, CloudSQL), boosting system reliability by 35%.",
-				"Spearheaded full-stack integration of LLM/Generative AI services (Vertex AI / Gemini API) with React/TypeScript UI portals and Node.js microservices, automating supply chain document processing and reducing manual verification time by 40%."
+				"Spearheaded full-stack integration of LLM/Generative AI services (Vertex AI / Gemini API) with React/TypeScript UI portals and Node.js microservices, automating supply chain document processing and reducing manual verification time by 40%.",
+				"Unified frontend architecture across 4 supply management portals by developing a shared React/TypeScript design system library, driving 30% faster feature delivery and 100% WCAG 2.1 accessibility compliance.",
+				"Optimized complex dashboard state management and virtualized list rendering (React Query, Redux), reducing page load latency by 45% when processing 50,000+ real-time inventory records."
 			]
 		},
 		{
@@ -50,7 +52,8 @@
 			"summary": "Engineered interactive data visualization dashboards and modular client-side/server-side architectures to track real-time telemetry and financial development metrics.",
 			"highlights": [
 				"Architected an interactive analytics platform using ReactJS, Redux, and D3.js, visualizing complex telemetry with dynamic charts and WebSockets for real-time data sync.",
-				"Built high-performance Node.js & Express REST APIs integrated with MongoDB and SQL schema optimization, ensuring low-latency data processing and high code quality."
+				"Built high-performance Node.js & Express REST APIs integrated with MongoDB and SQL schema optimization, ensuring low-latency data processing and high code quality.",
+				"Integrated client-side dashboards with predictive machine learning (ML) APIs, rendering real-time telemetry anomaly detection alerts and dynamic forecasting charts for financial datasets."
 			]
 		},
 		{
@@ -130,6 +133,13 @@
 		}
 	],
 	"publications": [],
-	"awards": [],
+	"awards": [
+		{
+			"title": "Engineering Excellence Spot Award",
+			"date": "2024-05",
+			"awarder": "GlobalLogic / Google GSM Team",
+			"summary": "Awarded for outstanding technical contribution in unifying UI design systems and improving application rendering performance."
+		}
+	],
 	"certificates": []
 }
