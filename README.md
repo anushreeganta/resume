@@ -1,11 +1,11 @@
 # Anushree Ganta
-_Senior Fullstack Engineer_
+_Frontend Developer_
 
 [![Build Resume](https://github.com/anushreeganta/resume/actions/workflows/resume.yml/badge.svg)](https://github.com/anushreeganta/resume/actions/workflows/resume.yml)
 
 ---
 
-I am a Senior Fullstack Engineer with 5+ years of experience designing high-performance, secure web applications and financial payment systems. I specialize in ReactJS, TypeScript, Node.js, REST/GraphQL APIs, WebSockets, SQL/NoSQL datastores, web security (CSP, 256-bit encryption), and performance optimization.
+I am a Frontend Developer with 5+ years of experience designing high-performance, secure web applications, AI-driven automation systems, and financial platforms. I specialize in ReactJS, TypeScript, Node.js, REST/GraphQL APIs, Generative AI/LLM integration (Vertex AI), WebSockets, SQL/NoSQL datastores, web security, and performance optimization.
 
 My focus is on creating intuitive user experiences, modular component architecture, and seamless design system implementations for enterprise web applications.
 

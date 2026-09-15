@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Anushree Ganta",
-		"label": "Senior Fullstack Engineer",
+		"label": "Frontend Developer",
 		"email": "anushree.ganta@gmail.com",
 		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Senior Fullstack Engineer with 5+ years of experience designing high-performance, secure web applications and financial payment systems using ReactJS, TypeScript, Node.js, and REST/GraphQL APIs. Skilled in real-time WebSockets, SQL/NoSQL datastores, web security (CSP, 256-bit encryption), and performance optimization.",
+		"summary": "Frontend Developer with 5+ years of experience designing high-performance, secure web applications, AI-driven automation systems, and financial platforms using ReactJS, TypeScript, Node.js, and REST/GraphQL APIs. Skilled in Generative AI/LLM integration (Vertex AI), real-time WebSockets, SQL/NoSQL datastores, web security, and performance optimization.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -34,10 +34,11 @@
 			"location": "San Jose, CA",
 			"startDate": "2023-01",
 			"endDate": "2026-02",
-			"summary": "Architected scalable frontend platforms, enterprise analytics dashboards, and automated high-throughput data pipelines powering Google's Global Supply Management operations in Agile environments.",
+			"summary": "Architected scalable frontend platforms, enterprise analytics dashboards, AI-powered workflow automation tools, and high-throughput data pipelines powering Google's Global Supply Management operations in Agile environments.",
 			"highlights": [
 				"Architected enterprise-grade UI components using ReactJS, TypeScript, and modern JavaScript (ES6+), establishing modular frontend architectures and WCAG accessibility standards.",
-				"Engineered full-stack RESTful APIs & GraphQL endpoints (Node.js, Express) with SQL & NoSQL datastores (BigQuery, CloudSQL), boosting system reliability by 35%."
+				"Engineered full-stack RESTful APIs & GraphQL endpoints (Node.js, Express) with SQL & NoSQL datastores (BigQuery, CloudSQL), boosting system reliability by 35%.",
+				"Spearheaded full-stack integration of LLM/Generative AI services (Vertex AI / Gemini API) with React/TypeScript UI portals and Node.js microservices, automating supply chain document processing and reducing manual verification time by 40%."
 			]
 		},
 		{
@@ -113,8 +114,8 @@
 			"name": "Backend, APIs & Datastores",
 			"keywords": [
 				"Node.js / Express / Java / Spring Boot",
-				"RESTful APIs & GraphQL Endpoints",
-				"SQL (PostgreSQL) & NoSQL (MongoDB)",
+				"RESTful APIs & GraphQL Endpoints / LLM Integration (Vertex AI)",
+				"SQL (PostgreSQL) & NoSQL (MongoDB / BigQuery)",
 				"Event-Driven Architecture / Message Queues"
 			]
 		},
