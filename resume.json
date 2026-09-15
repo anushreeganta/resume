@@ -53,7 +53,8 @@
 			"highlights": [
 				"Architected an interactive analytics platform using ReactJS, Redux, and D3.js, visualizing complex telemetry with dynamic charts and WebSockets for real-time data sync.",
 				"Built high-performance Node.js & Express REST APIs integrated with MongoDB and SQL schema optimization, ensuring low-latency data processing and high code quality.",
-				"Integrated client-side dashboards with predictive machine learning (ML) APIs, rendering real-time telemetry anomaly detection alerts and dynamic forecasting charts for financial datasets."
+				"Integrated client-side dashboards with predictive machine learning (ML) APIs, rendering real-time telemetry anomaly detection alerts and dynamic forecasting charts for financial datasets.",
+				"Developed modular UI component libraries and custom React hooks for asynchronous data fetching, reducing client-side code redundancy by 25%."
 			]
 		},
 		{
@@ -65,8 +66,17 @@
 			"summary": "Spearheaded full-stack feature development, UI component modularization, web security enforcement, and performance optimization for enterprise eCommerce and payment applications.",
 			"highlights": [
 				"Engineered interactive analytics dashboards and transaction interfaces in ReactJS and Node.js, implementing Content Security Policy (CSP) headers and cross-browser compatibility.",
-				"Implemented Real User Monitoring (RUM) and caching strategies, analyzing Core Web Vitals to optimize page load speeds by 25% while participating in Jest/Cypress code reviews."
+				"Implemented Real User Monitoring (RUM) and caching strategies, analyzing Core Web Vitals to optimize page load speeds by 25% while participating in Jest/Cypress code reviews.",
+				"Optimized Webpack build configurations and code-splitting strategies, reducing JavaScript bundle size by 35% and improving page load performance for enterprise checkout portals."
 			]
+		}
+	],
+	"awards": [
+		{
+			"title": "Engineering Excellence Spot Award",
+			"date": "2024-05",
+			"awarder": "GlobalLogic / Google GSM Team",
+			"summary": "Awarded for outstanding technical contribution in unifying UI design systems and improving application rendering performance."
 		}
 	],
 	"education": [
@@ -133,13 +143,5 @@
 		}
 	],
 	"publications": [],
-	"awards": [
-		{
-			"title": "Engineering Excellence Spot Award",
-			"date": "2024-05",
-			"awarder": "GlobalLogic / Google GSM Team",
-			"summary": "Awarded for outstanding technical contribution in unifying UI design systems and improving application rendering performance."
-		}
-	],
 	"certificates": []
 }
