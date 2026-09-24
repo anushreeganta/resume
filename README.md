@@ -1,13 +1,13 @@
 # Anushree Ganta
-_Frontend Developer_
+_Technical Project Manager / Program Manager_
 
 [![Build Resume](https://github.com/anushreeganta/resume/actions/workflows/resume.yml/badge.svg)](https://github.com/anushreeganta/resume/actions/workflows/resume.yml)
 
 ---
 
-I am a Frontend Developer with 5+ years of experience designing high-performance, secure web applications, AI-driven automation systems, and financial platforms. I specialize in ReactJS, TypeScript, Node.js, REST/GraphQL APIs, Generative AI/LLM integration (Vertex AI), WebSockets, SQL/NoSQL datastores, web security, and performance optimization.
+I am a Technical Project Manager with 5+ years of experience leading cross-functional teams in executing data and technology transformation programs across enterprise financial services, payment systems, and supply chain environments. I specialize in Agile/Scrum program delivery, data infrastructure modernization (BigQuery, SQL/NoSQL), financial regulatory compliance, AI/LLM workflow automation, stakeholder management, and SDLC governance.
 
-My focus is on creating intuitive user experiences, modular component architecture, and seamless design system implementations for enterprise web applications.
+My focus is on driving alignment across product, engineering, and executive leadership to deliver high-impact technology programs on time and within scope.
 
 ---
 

@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Anushree Ganta",
-		"label": "Frontend Developer",
+		"label": "Technical Project Manager / Program Manager",
 		"email": "anushree.ganta@gmail.com",
 		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Frontend Developer with 5+ years of experience designing high-performance, secure web applications, AI-driven automation systems, and financial platforms using ReactJS, TypeScript, Node.js, and REST/GraphQL APIs. Skilled in Generative AI/LLM integration (Vertex AI), real-time WebSockets, SQL/NoSQL datastores, web security, and performance optimization.",
+		"summary": "Technical Project Manager with 5+ years of experience leading cross-functional teams in executing data and technology transformation programs across enterprise financial services, payment systems, and supply chain environments. Skilled in Agile/Scrum program delivery, data infrastructure modernization (BigQuery, SQL/NoSQL), financial compliance (AES-256), AI/LLM workflow automation, stakeholder management, and SDLC governance.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -30,44 +30,42 @@
 	"work": [
 		{
 			"name": "Google (via GlobalLogic)",
-			"position": "Software Engineer",
+			"position": "Technical Project Manager / Software Lead",
 			"location": "San Jose, CA",
 			"startDate": "2023-01",
 			"endDate": "2026-02",
-			"summary": "Architected scalable frontend platforms, enterprise analytics dashboards, AI-powered workflow automation tools, and high-throughput data pipelines powering Google's Global Supply Management operations in Agile environments.",
+			"summary": "Led cross-functional engineering teams in delivering enterprise data transformation initiatives, AI-driven workflow tools, and scalable supply chain analytics platforms across Google's Global Supply Management division.",
 			"highlights": [
-				"Architected enterprise-grade UI components using ReactJS, TypeScript, and modern JavaScript (ES6+), establishing modular frontend architectures and WCAG accessibility standards.",
-				"Engineered full-stack RESTful APIs & GraphQL endpoints (Node.js, Express) with SQL & NoSQL datastores (BigQuery, CloudSQL), boosting system reliability by 35%.",
-				"Spearheaded full-stack integration of LLM/Generative AI services (Vertex AI / Gemini API) with React/TypeScript UI portals and Node.js microservices, automating supply chain document processing and reducing manual verification time by 40%.",
-				"Unified frontend architecture across 4 supply management portals by developing a shared React/TypeScript design system library, driving 30% faster feature delivery and 100% WCAG 2.1 accessibility compliance.",
-				"Optimized complex dashboard state management and virtualized list rendering (React Query, Redux), reducing page load latency by 45% when processing 50,000+ real-time inventory records."
+				"Managed end-to-end delivery of high-throughput data transformation programs using BigQuery and CloudSQL, driving alignment across product, data engineering, and business leadership to improve system reliability by 35%.",
+				"Spearheaded cross-functional implementation of Generative AI/LLM workflow automation tools (Vertex AI / Gemini API), establishing sprint roadmaps, risk controls, and milestone tracking that reduced manual document processing time by 40%.",
+				"Facilitated Agile/Scrum ceremonies, resource planning, and sprint backlog prioritization for multi-disciplinary teams, accelerating feature delivery by 30% while ensuring 100% WCAG accessibility compliance.",
+				"Orchestrated design system unification programs across 4 enterprise supply chain applications, mitigating integration risks and standardizing technical delivery governance."
 			]
 		},
 		{
 			"name": "eDiligence",
-			"position": "Full-Stack Developer Intern",
+			"position": "Technical Project Manager Intern",
 			"location": "San Jose, CA",
 			"startDate": "2021-01",
 			"endDate": "2021-05",
-			"summary": "Engineered interactive data visualization dashboards and modular client-side/server-side architectures to track real-time telemetry and financial development metrics.",
+			"summary": "Managed the execution of real-time telemetry and financial data analytics initiatives, coordinating cross-functional team delivery of visualization platforms and predictive ML integrations.",
 			"highlights": [
-				"Architected an interactive analytics platform using ReactJS, Redux, and D3.js, visualizing complex telemetry with dynamic charts and WebSockets for real-time data sync.",
-				"Built high-performance Node.js & Express REST APIs integrated with MongoDB and SQL schema optimization, ensuring low-latency data processing and high code quality.",
-				"Integrated client-side dashboards with predictive machine learning (ML) APIs, rendering real-time telemetry anomaly detection alerts and dynamic forecasting charts for financial datasets.",
-				"Developed modular UI component libraries and custom React hooks for asynchronous data fetching, reducing client-side code redundancy by 25%."
+				"Directed project scope, milestone delivery, and client requirements for a financial analytics visualization platform (ReactJS, D3.js, WebSockets), delivering real-time telemetry tracking for financial stakeholders.",
+				"Coordinated full-stack integration of predictive machine learning (ML) anomaly detection models with Node.js/MongoDB data pipelines, tracking deliverables and mitigating technical dependencies to achieve on-time release.",
+				"Facilitated sprint planning, stakeholder status reporting, and backlog refinement, establishing modular UI and data standards that reduced client-side implementation redundancy by 25%."
 			]
 		},
 		{
 			"name": "Accenture Pvt. Ltd.",
-			"position": "Application Development Associate",
+			"position": "Technical Project Lead / Associate",
 			"location": "Bangalore, India",
 			"startDate": "2018-08",
 			"endDate": "2020-11",
-			"summary": "Spearheaded full-stack feature development, UI component modularization, web security enforcement, and performance optimization for enterprise eCommerce and payment applications.",
+			"summary": "Led cross-functional feature delivery, web security transformation programs, and performance optimization initiatives for enterprise financial services, eCommerce, and payment processing platforms.",
 			"highlights": [
-				"Engineered interactive analytics dashboards and transaction interfaces in ReactJS and Node.js, implementing Content Security Policy (CSP) headers and cross-browser compatibility.",
-				"Implemented Real User Monitoring (RUM) and caching strategies, analyzing Core Web Vitals to optimize page load speeds by 25% while participating in Jest/Cypress code reviews.",
-				"Optimized Webpack build configurations and code-splitting strategies, reducing JavaScript bundle size by 35% and improving page load performance for enterprise checkout portals."
+				"Managed technology transformation projects for financial payment applications, enforcing 256-bit AES encryption, Content Security Policy (CSP) headers, and strict regulatory compliance across high-volume transaction flows.",
+				"Led cross-functional performance optimization programs (RUM, Core Web Vitals, Webpack bundling), tracking SLA metrics and accelerating application load speeds by 25% for 100k+ enterprise transaction users.",
+				"Facilitated daily Agile standups, sprint retrospectives, and cross-team dependency mapping, ensuring 100% on-time milestone delivery across enterprise payment releases."
 			]
 		}
 	],
@@ -102,43 +100,46 @@
 			"name": "Blink – Anonymous Workplace Community Platform",
 			"description": "A distributed, responsive full-stack web application supporting real-time messaging and telemetry.",
 			"highlights": [
-				"Architected a responsive ReactJS & Redux web client with WebSockets, event-driven message queues, and OAuth authentication for low-latency real-time updates."
+				"Led end-to-end project lifecycle for a real-time community platform, managing Agile backlog, WebSocket event-driven messaging architectures, and OAuth authentication delivery."
 			]
 		},
 		{
 			"name": "Online Banking Web Application",
 			"description": "A secure, multi-role financial application supporting real-time payment processing and transaction workflows.",
 			"highlights": [
-				"Engineered customer and admin portals in ReactJS and Node.js with 256-bit AES data encryption, secure Auth0 authentication, and SQL transactional datastores compliant with financial regulations."
+				"Directed technical project scope for a secure financial banking platform, enforcing 256-bit AES encryption compliance, Auth0 authentication, and SQL transaction datastores meeting financial regulations."
 			]
 		}
 	],
 	"skills": [
 		{
-			"name": "Frontend & Enterprise UI",
+			"name": "Program & Project Governance",
 			"keywords": [
-				"ReactJS / TypeScript / JavaScript (ES6+)",
-				"Next.js / HTML5 / CSS3 / SASS",
-				"Enterprise UI Components / WCAG Accessibility",
-				"WebSockets / Real-Time UI & Notifications"
+				"Agile / Scrum / Kanban Leadership",
+				"SDLC Governance & Scope Management",
+				"Stakeholder Management & Executive Reporting",
+				"Risk Mitigation & Dependency Mapping",
+				"JIRA / Confluence / Release Planning"
 			]
 		},
 		{
-			"name": "Backend, APIs & Datastores",
+			"name": "Data & Technology Transformation",
 			"keywords": [
-				"Node.js / Express / Java / Spring Boot",
-				"RESTful APIs & GraphQL Endpoints / LLM Integration (Vertex AI)",
-				"SQL (PostgreSQL) & NoSQL (MongoDB / BigQuery)",
-				"Event-Driven Architecture / Message Queues"
+				"Data Transformation & Infrastructure Modernization",
+				"BigQuery / CloudSQL / Data Pipelines",
+				"AI / LLM Workflow Integration (Vertex AI)",
+				"Enterprise Analytics & Telemetry Dashboards",
+				"RESTful APIs & GraphQL Architectures"
 			]
 		},
 		{
-			"name": "Security, Quality & DevOps",
+			"name": "Financial Systems & Compliance",
 			"keywords": [
-				"Web Security (CSP, 256-bit Encryption, Financial Regs)",
-				"Jest / Cypress / Playwright E2E Testing / TDD",
-				"Caching / CDN / RUM Performance Optimization",
-				"Agile / Scrum / Code Reviews & Mentorship"
+				"Financial Services & Payment Systems",
+				"Financial Regulatory Compliance & Audit Readiness",
+				"256-bit AES Encryption & Web Security (CSP)",
+				"Core Web Vitals & SLA Performance Optimization",
+				"Cross-Functional Team Leadership"
 			]
 		}
 	],
