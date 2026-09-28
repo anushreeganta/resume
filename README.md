@@ -1,13 +1,13 @@
 # Anushree Ganta
-_Technical Project Manager / Program Manager_
+_Senior Full Stack Developer / Technical Lead_
 
 [![Build Resume](https://github.com/anushreeganta/resume/actions/workflows/resume.yml/badge.svg)](https://github.com/anushreeganta/resume/actions/workflows/resume.yml)
 
 ---
 
-I am a Technical Project Manager with 5+ years of experience leading cross-functional teams in executing data and technology transformation programs across enterprise financial services, payment systems, and supply chain environments. I specialize in Agile/Scrum program delivery, data infrastructure modernization (BigQuery, SQL/NoSQL), financial regulatory compliance, AI/LLM workflow automation, stakeholder management, and SDLC governance.
+I am a Senior Full Stack Web Developer & Technical Lead with 5+ years of experience designing and architecting scalable web applications, RESTful APIs, and cloud data platforms using Object-Oriented Python (FastAPI, Flask), Node.js, JavaScript, Vue 3, and React. I specialize in Microsoft SQL Server, cloud migrations (AWS, Azure, Snowflake), TDD (PyTest), real-time WebSockets, AG-Grid / HighCharts data visualization, and CI/CD DevOps pipelines.
 
-My focus is on driving alignment across product, engineering, and executive leadership to deliver high-impact technology programs on time and within scope.
+My focus is on technical leadership, application architecture design, and end-to-end full stack development.
 
 ---
 

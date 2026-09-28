@@ -2,11 +2,11 @@
 	"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
 	"basics": {
 		"name": "Anushree Ganta",
-		"label": "Technical Project Manager / Program Manager",
+		"label": "Senior Full Stack Developer / Technical Lead",
 		"email": "anushree.ganta@gmail.com",
 		"phone": "+1 669-649-0199",
 		"url": "https://linkedin.com/in/anushree-ganta",
-		"summary": "Technical Project Manager with 5+ years of experience leading cross-functional teams in executing data and technology transformation programs across enterprise financial services, payment systems, and supply chain environments. Skilled in Agile/Scrum program delivery, data infrastructure modernization (BigQuery, SQL/NoSQL), financial compliance (AES-256), AI/LLM workflow automation, stakeholder management, and SDLC governance.",
+		"summary": "Senior Full Stack Web Developer & Technical Lead with 5+ years of experience designing and architecting scalable web applications, RESTful APIs, and cloud data platforms using Object-Oriented Python (FastAPI, Flask), Node.js, JavaScript, Vue 3, and React. Skilled in Microsoft SQL Server, cloud migrations (AWS, Azure, Snowflake), TDD (PyTest), real-time WebSockets, AG-Grid / HighCharts data visualization, and CI/CD DevOps pipelines.",
 		"location": {
 			"address": "",
 			"postalCode": "95126",
@@ -30,42 +30,42 @@
 	"work": [
 		{
 			"name": "Google (via GlobalLogic)",
-			"position": "Technical Project Manager / Software Lead",
+			"position": "Senior Full Stack Developer / Technical Lead",
 			"location": "San Jose, CA",
 			"startDate": "2023-01",
 			"endDate": "2026-02",
-			"summary": "Led cross-functional engineering teams in delivering enterprise data transformation initiatives, AI-driven workflow tools, and scalable supply chain analytics platforms across Google's Global Supply Management division.",
+			"summary": "Architected and maintained enterprise web applications, high-throughput Python microservices (FastAPI), and cloud data platforms on Red Hat Linux powering Google's Global Supply Management operations.",
 			"highlights": [
-				"Managed end-to-end delivery of high-throughput data transformation programs using BigQuery and CloudSQL, driving alignment across product, data engineering, and business leadership to improve system reliability by 35%.",
-				"Spearheaded cross-functional implementation of Generative AI/LLM workflow automation tools (Vertex AI / Gemini API), establishing sprint roadmaps, risk controls, and milestone tracking that reduced manual document processing time by 40%.",
-				"Facilitated Agile/Scrum ceremonies, resource planning, and sprint backlog prioritization for multi-disciplinary teams, accelerating feature delivery by 30% while ensuring 100% WCAG accessibility compliance.",
-				"Orchestrated design system unification programs across 4 enterprise supply chain applications, mitigating integration risks and standardizing technical delivery governance."
+				"Engineered full-stack web applications and RESTful APIs using Object-Oriented Python (FastAPI, Flask) and Vue 3 / React, integrating Microsoft SQL Server and BigQuery to boost system reliability by 35%.",
+				"Led cloud data migration and application architecture design initiatives transitioning on-premise infrastructure to cloud-based solutions (AWS / Azure / Snowflake), reducing pipeline latency by 40%.",
+				"Implemented Test-Driven Development (TDD) practices with PyTest unit testing suites, enforcing DevOps CI/CD pipeline automation and Git version control across multi-developer projects.",
+				"Designed interactive data analytics dashboards incorporating AG-Grid controls, HighCharts, and real-time WebSockets for telemetry monitoring while authoring technical proposals and documentation."
 			]
 		},
 		{
 			"name": "eDiligence",
-			"position": "Technical Project Manager Intern",
+			"position": "Full Stack Developer Intern",
 			"location": "San Jose, CA",
 			"startDate": "2021-01",
 			"endDate": "2021-05",
-			"summary": "Managed the execution of real-time telemetry and financial data analytics initiatives, coordinating cross-functional team delivery of visualization platforms and predictive ML integrations.",
+			"summary": "Designed and implemented full stack web applications, RESTful JSON APIs, and real-time telemetry dashboards using Python (Flask), Vue.js, Node.js, and SQL datastores.",
 			"highlights": [
-				"Directed project scope, milestone delivery, and client requirements for a financial analytics visualization platform (ReactJS, D3.js, WebSockets), delivering real-time telemetry tracking for financial stakeholders.",
-				"Coordinated full-stack integration of predictive machine learning (ML) anomaly detection models with Node.js/MongoDB data pipelines, tracking deliverables and mitigating technical dependencies to achieve on-time release.",
-				"Facilitated sprint planning, stakeholder status reporting, and backlog refinement, establishing modular UI and data standards that reduced client-side implementation redundancy by 25%."
+				"Architected interactive analytics platforms using Vue.js, JavaScript, D3.js, and HighCharts with WebSockets for real-time data sync and low-latency JSON payload handling.",
+				"Built high-performance Python (Requests, Flask) and Node.js REST APIs integrated with SQL database schema optimization and PyTest test-driven development.",
+				"Integrated client-side dashboards with predictive ML models and AG-Grid controls, rendering real-time telemetry anomaly alerts for financial datasets."
 			]
 		},
 		{
 			"name": "Accenture Pvt. Ltd.",
-			"position": "Technical Project Lead / Associate",
+			"position": "Full Stack Software Engineer",
 			"location": "Bangalore, India",
 			"startDate": "2018-08",
 			"endDate": "2020-11",
-			"summary": "Led cross-functional feature delivery, web security transformation programs, and performance optimization initiatives for enterprise financial services, eCommerce, and payment processing platforms.",
+			"summary": "Spearheaded full stack application development, web security enforcement, and database optimization for enterprise eCommerce and payment applications.",
 			"highlights": [
-				"Managed technology transformation projects for financial payment applications, enforcing 256-bit AES encryption, Content Security Policy (CSP) headers, and strict regulatory compliance across high-volume transaction flows.",
-				"Led cross-functional performance optimization programs (RUM, Core Web Vitals, Webpack bundling), tracking SLA metrics and accelerating application load speeds by 25% for 100k+ enterprise transaction users.",
-				"Facilitated daily Agile standups, sprint retrospectives, and cross-team dependency mapping, ensuring 100% on-time milestone delivery across enterprise payment releases."
+				"Engineered full stack transaction interfaces using JavaScript (Vue.js, Node.js), HTML5, CSS, Ajax, and Microsoft SQL Server, enforcing web security (CSP, 256-bit encryption).",
+				"Architected RESTful APIs and real-time socket interfaces, optimizing database query performance and participating in TDD code reviews and CI/CD DevOps workflows.",
+				"Optimized front-end and back-end build pipelines, reducing bundle sizes by 35% and authoring technical documentation and project proposals."
 			]
 		}
 	],
@@ -100,46 +100,46 @@
 			"name": "Blink – Anonymous Workplace Community Platform",
 			"description": "A distributed, responsive full-stack web application supporting real-time messaging and telemetry.",
 			"highlights": [
-				"Led end-to-end project lifecycle for a real-time community platform, managing Agile backlog, WebSocket event-driven messaging architectures, and OAuth authentication delivery."
+				"Architected a full stack web application featuring real-time WebSockets, Python FastAPI microservices, Vue.js / React front-end, and JSON API streaming."
 			]
 		},
 		{
 			"name": "Online Banking Web Application",
 			"description": "A secure, multi-role financial application supporting real-time payment processing and transaction workflows.",
 			"highlights": [
-				"Directed technical project scope for a secure financial banking platform, enforcing 256-bit AES encryption compliance, Auth0 authentication, and SQL transaction datastores meeting financial regulations."
+				"Engineered customer and admin portals with Object-Oriented Python back-end, Microsoft SQL Server database, 256-bit AES encryption, and RESTful API architecture."
 			]
 		}
 	],
 	"skills": [
 		{
-			"name": "Program & Project Governance",
+			"name": "Full Stack & Front-End",
 			"keywords": [
-				"Agile / Scrum / Kanban Leadership",
-				"SDLC Governance & Scope Management",
-				"Stakeholder Management & Executive Reporting",
-				"Risk Mitigation & Dependency Mapping",
-				"JIRA / Confluence / Release Planning"
+				"Vue 3 / Vue.js / ReactJS / JavaScript (ES6+)",
+				"FastAPI / Flask / Object-Oriented Python / Node.js",
+				"HTML5 / CSS3 / SASS / jQuery / Ajax",
+				"AG-Grid Controls / HighCharts / D3.js Data Viz",
+				"Application Architecture Design"
 			]
 		},
 		{
-			"name": "Data & Technology Transformation",
+			"name": "Back-End, Cloud & Datastores",
 			"keywords": [
-				"Data Transformation & Infrastructure Modernization",
-				"BigQuery / CloudSQL / Data Pipelines",
-				"AI / LLM Workflow Integration (Vertex AI)",
-				"Enterprise Analytics & Telemetry Dashboards",
-				"RESTful APIs & GraphQL Architectures"
+				"Microsoft SQL Server / SQL / BigQuery / PostgreSQL",
+				"Cloud Solutions (AWS / Azure / Snowflake Migration)",
+				"Red Hat Linux / RESTful APIs / JSON / WebSockets",
+				"Python Requests Library / Socket Communication",
+				"Event-Driven & Microservices Architecture"
 			]
 		},
 		{
-			"name": "Financial Systems & Compliance",
+			"name": "DevOps, Testing & Governance",
 			"keywords": [
-				"Financial Services & Payment Systems",
-				"Financial Regulatory Compliance & Audit Readiness",
-				"256-bit AES Encryption & Web Security (CSP)",
-				"Core Web Vitals & SLA Performance Optimization",
-				"Cross-Functional Team Leadership"
+				"Test-Driven Development (TDD) / PyTest / Unit Testing",
+				"Git Version Control / DevOps / CI/CD Pipelines",
+				"Technical Writing (Proposals, Docs, Test Plans)",
+				"Web Security (CSP, 256-bit Encryption)",
+				"Technical Leadership & Entrepreneurial Project Drive"
 			]
 		}
 	],
